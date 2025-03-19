@@ -1,0 +1,15 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore large files
+Global_Mobility_Report.csv
