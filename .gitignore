@@ -12,4 +12,4 @@ node_modules/
 .env
 
 # Ignore large files
-global_mobility_report.csv
+global_mobility_report.csvglobal_mobility_report.csv
