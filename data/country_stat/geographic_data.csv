@@ -1,218 +1,248 @@
-Country Name,Country Code,Land boundaries,Coastline,Border countries,Contiguous countries
+Country,Code,land_boundaries,coastline,num_border_countries,border_countries
 Afghanistan,AFG,5987,0,6,"China 91 km; Iran 921 km; Pakistan 2,670 km; Tajikistan 1,357 km; Turkmenistan 804 km; Uzbekistan 144 km "
+Akrotiri and Dhekelia,,156,83.8,1,Cyprus 156 km
 Albania,ALB,691,362,4,Greece 212 km; Kosovo 112 km; North Macedonia 181 km; Montenegro 186 km 
 Algeria,DZA,6734,998,6,"Libya 989 km; Mali 1,359 km; Mauritania 460 km; Morocco 1,941 km; Niger 951 km; Tunisia 1,034 km "
 American Samoa,ASM,0,116,0,
 Andorra,AND,118,0,2,France 55 km; Spain 63 km 
 Angola,AGO,5369,1600,4,"Democratic Republic of the Congo 2,646 km (of which 225 km is the boundary of discontiguous Cabinda Province); Republic of the Congo 231 km; Namibia 1,427 km; Zambia 1,065 km "
+Anguilla,AIA,0,61,0,
+Antarctica,ATA,0,17968,0,
 Antigua and Barbuda,ATG,0,153,0,
 Argentina,ARG,11968,4989,5,"Bolivia 942 km; Brazil 1,263 km; Chile 6,691 km; Paraguay 2,531 km; Uruguay 541 km "
 Armenia,ARM,1570,0,4,Azerbaijan 996 km; Georgia 219 km; Iran 44 km; Turkey 311 km
 Aruba,ABW,0,68.5,0,
+Ashmore and Cartier Islands,,0,74.1,0,
 Australia,AUS,0,25760,0,
 Austria,AUT,2524,0,8,Czech Republic 402 km; Germany 801 km; Hungary 321 km; Italy 404 km; Liechtenstein 34 km; Slovakia 105 km; Slovenia 299 km; Switzerland 158 km 
 Azerbaijan,AZE,2468,0,5,Armenia 996 km; Georgia 428 km; Iran 689 km; Russia 338 km; Turkey 17 km 
-"Bahamas, The",BHS,0,3542,0,
-Bahrain,BHR,0,161,,
+Bahamas,BHS,0,3542,0,
+Bahrain,BHR,0,161,0,
 Bangladesh,BGD,4413,580,2,"Burma 271 km; India 4,142 km "
 Barbados,BRB,0,97,0,
 Belarus,BLR,3599,0,5,"Latvia 161 km; Lithuania 640 km; Poland 375 km; Russia 1,312 km; Ukraine 1,111 km"
 Belgium,BEL,1297,66.5,4,France 556 km; Germany 133 km; Luxembourg 130 km; Netherlands 478 km
 Belize,BLZ,542,386,2,Guatemala 266 km; Mexico 276 km 
 Benin,BEN,2123,121,4,Burkina Faso 386 km; Niger 277 km; Nigeria 809 km; Togo 651 km 
-Bermuda,BMU,,,,
-Bhutan,BTN,,,,
-Bolivia,BOL,,,,
-Bosnia and Herzegovina,BIH,,,,
-Botswana,BWA,,,,
-Brazil,BRA,,,,
-British Virgin Islands,VGB,,,,
-Brunei Darussalam,BRN,,,,
-Bulgaria,BGR,,,,
-Burkina Faso,BFA,,,,
-Burundi,BDI,,,,
-Cabo Verde,CPV,,,,
-Cambodia,KHM,,,,
-Cameroon,CMR,,,,
-Canada,CAN,,,,
-Cayman Islands,CYM,,,,
-Central African Republic,CAF,,,,
-Chad,TCD,,,,
-Channel Islands,CHI,,,,
-Chile,CHL,,,,
-China,CHN,,,,
-Colombia,COL,,,,
-Comoros,COM,,,,
-"Congo, Dem. Rep.",COD,,,,
-"Congo, Rep.",COG,,,,
-Costa Rica,CRI,,,,
-Cote d'Ivoire,CIV,,,,
-Croatia,HRV,,,,
-Cuba,CUB,,,,
-Curacao,CUW,,,,
-Cyprus,CYP,,,,
-Czechia,CZE,,,,
-Denmark,DNK,,,,
-Djibouti,DJI,,,,
-Dominica,DMA,,,,
-Dominican Republic,DOM,,,,
-Ecuador,ECU,,,,
-"Egypt, Arab Rep.",EGY,,,,
-El Salvador,SLV,,,,
-Equatorial Guinea,GNQ,,,,
-Eritrea,ERI,,,,
-Estonia,EST,,,,
-Eswatini,SWZ,,,,
-Ethiopia,ETH,,,,
-Faroe Islands,FRO,,,,
-Fiji,FJI,,,,
-Finland,FIN,,,,
-France,FRA,,,,
-French Polynesia,PYF,,,,
-Gabon,GAB,,,,
-"Gambia, The",GMB,,,,
-Georgia,GEO,,,,
-Germany,DEU,,,,
-Ghana,GHA,,,,
-Gibraltar,GIB,,,,
-Greece,GRC,,,,
-Greenland,GRL,,,,
-Grenada,GRD,,,,
-Guam,GUM,,,,
-Guatemala,GTM,,,,
-Guinea,GIN,,,,
-Guinea-Bissau,GNB,,,,
-Guyana,GUY,,,,
-Haiti,HTI,,,,
-Honduras,HND,,,,
-"Hong Kong SAR, China",HKG,,,,
-Hungary,HUN,,,,
-Iceland,ISL,,,,
-India,IND,,,,
-Indonesia,IDN,,,,
-"Iran, Islamic Rep.",IRN,,,,
-Iraq,IRQ,,,,
-Ireland,IRL,,,,
-Isle of Man,IMN,,,,
-Israel,ISR,,,,
-Italy,ITA,,,,
-Jamaica,JAM,,,,
-Japan,JPN,,,,
-Jordan,JOR,,,,
-Kazakhstan,KAZ,,,,
-Kenya,KEN,,,,
-Kiribati,KIR,,,,
-"Korea, Dem. People's Rep.",PRK,,,,
-"Korea, Rep.",KOR,,,,
-Kosovo,XKX,,,,
-Kuwait,KWT,,,,
-Kyrgyz Republic,KGZ,,,,
-Lao PDR,LAO,,,,
-Latvia,LVA,,,,
-Lebanon,LBN,,,,
-Lesotho,LSO,,,,
-Liberia,LBR,,,,
-Libya,LBY,,,,
-Liechtenstein,LIE,,,,
-Lithuania,LTU,,,,
-Luxembourg,LUX,,,,
-"Macao SAR, China",MAC,,,,
-Madagascar,MDG,,,,
-Malawi,MWI,,,,
-Malaysia,MYS,,,,
-Maldives,MDV,,,,
-Mali,MLI,,,,
-Malta,MLT,,,,
-Marshall Islands,MHL,,,,
-Mauritania,MRT,,,,
-Mauritius,MUS,,,,
-Mexico,MEX,,,,
-"Micronesia, Fed. Sts.",FSM,,,,
-Moldova,MDA,,,,
-Monaco,MCO,,,,
-Mongolia,MNG,,,,
-Montenegro,MNE,,,,
-Morocco,MAR,,,,
-Mozambique,MOZ,,,,
-Myanmar,MMR,,,,
-Namibia,NAM,,,,
-Nauru,NRU,,,,
-Nepal,NPL,,,,
-Netherlands,NLD,,,,
-New Caledonia,NCL,,,,
-New Zealand,NZL,,,,
-Nicaragua,NIC,,,,
-Niger,NER,,,,
-Nigeria,NGA,,,,
-North Macedonia,MKD,,,,
-Northern Mariana Islands,MNP,,,,
-Norway,NOR,,,,
-Oman,OMN,,,,
-Pakistan,PAK,,,,
-Palau,PLW,,,,
-Panama,PAN,,,,
-Papua New Guinea,PNG,,,,
-Paraguay,PRY,,,,
-Peru,PER,,,,
-Philippines,PHL,,,,
-Poland,POL,,,,
-Portugal,PRT,,,,
-Puerto Rico,PRI,,,,
-Qatar,QAT,,,,
-Romania,ROU,,,,
-Russian Federation,RUS,,,,
-Rwanda,RWA,,,,
-Samoa,WSM,,,,
-San Marino,SMR,,,,
-Sao Tome and Principe,STP,,,,
-Saudi Arabia,SAU,,,,
-Senegal,SEN,,,,
-Serbia,SRB,,,,
-Seychelles,SYC,,,,
-Sierra Leone,SLE,,,,
-Singapore,SGP,,,,
-Sint Maarten (Dutch part),SXM,,,,
-Slovak Republic,SVK,,,,
-Slovenia,SVN,,,,
-Solomon Islands,SLB,,,,
-Somalia,SOM,,,,
-South Africa,ZAF,,,,
-South Sudan,SSD,,,,
-Spain,ESP,,,,
-Sri Lanka,LKA,,,,
-St. Kitts and Nevis,KNA,,,,
-St. Lucia,LCA,,,,
-St. Martin (French part),MAF,,,,
-St. Vincent and the Grenadines,VCT,,,,
-Sudan,SDN,,,,
-Suriname,SUR,,,,
-Sweden,SWE,,,,
-Switzerland,CHE,,,,
-Syrian Arab Republic,SYR,,,,
-Tajikistan,TJK,,,,
-Tanzania,TZA,,,,
-Thailand,THA,,,,
-Timor-Leste,TLS,,,,
-Togo,TGO,,,,
-Tonga,TON,,,,
-Trinidad and Tobago,TTO,,,,
-Tunisia,TUN,,,,
-Turkiye,TUR,,,,
-Turkmenistan,TKM,,,,
-Turks and Caicos Islands,TCA,,,,
-Tuvalu,TUV,,,,
-Uganda,UGA,,,,
-Ukraine,UKR,,,,
-United Arab Emirates,ARE,,,,
-United Kingdom,GBR,,,,
-United States,USA,,,,
-Uruguay,URY,,,,
-Uzbekistan,UZB,,,,
-Vanuatu,VUT,,,,
-"Venezuela, RB",VEN,,,,
-Viet Nam,VNM,,,,
-Virgin Islands (U.S.),VIR,,,,
-West Bank and Gaza,PSE,,,,
-"Yemen, Rep.",YEM,,,,
-Zambia,ZMB,,,,
-Zimbabwe,ZWE,,,,
+Bermuda,BMU,0,103,0,
+Bhutan,BTN,1136,0,2,China 477 km; India 659 km
+Bolivia,BOL,7252,0,5,"Argentina 942 km; Brazil 3,403 km; Chile 942 km; Paraguay 753 km; Peru 1,212 km"
+Bosnia and Herzegovina,BIH,1543,20,3,Croatia 956 km; Montenegro 242 km; Serbia 345 km
+Botswana,BWA,4347.15,0,4,"Namibia 1,544 km; South Africa 1,969 km; Zambia 0.15 km; Zimbabwe 834 km"
+Bouvet Island,BVT,0,29.6,0,
+Brazil,BRA,16145,7491,10,"Argentina 1,263 km; Bolivia 3,403 km; Colombia 1,790 km; French Guiana 649 km; Guyana 1,308 km; Paraguay 1,371 km; Peru 2,659 km; Suriname 515 km; Uruguay 1,050 km; Venezuela 2,137 km"
+British Indian Ocean Territory,IOT,0,698,0,
+Brunei Darussalam,BRN,266,161,1,Malaysia 266 km
+Bulgaria,BGR,1806,354,5,Greece 472 km; Macedonia 162 km; Romania 605 km; Serbia 344 km; Turkey 223 km
+Burkina Faso,BFA,3611,0,6,Benin 386 km; Cote d'Ivoire 545 km; Ghana 602 km; Mali 1325 km; Niger 622 km; Togo 131 km
+Burundi,BDI,1140,0,3,Democratic Republic of the Congo 236 km; Rwanda 315 km; Tanzania 589 km
+Cambodia,KHM,2530,443,3,Laos 555 km; Thailand 817 km; Vietnam 1158 km
+Cameroon,CMR,5018,402,6,"Central African Republic 901 km; Chad 1,116 km; Republic of the Congo 494 km; Equatorial Guinea 183 km; Gabon 349 km; Nigeria 1975 km"
+Canada,CAN,8892,202080,2,"US 8,891 km (includes 2,475 km with Alaska); Denmark (Greenland) 1.3 km"
+Cape Verde,CPV,0,965,0,
+Cayman Islands,CYM,0,160,0,
+Central African Republic,CAF,5920,0,5,"Cameroon 901 km; Chad 1556 km; Democratic Republic of the Congo 1,747 km, Republic of the Congo 487 km; South Sudan 1055 km; Sudan 174 km"
+Chad,TCD,6406,0,6,"Cameroon 1,116 km; Central African Republic 1,556 km; Libya 1,050 km; Niger 1,196 km; Nigeria 85 km; Sudan 1,403 km"
+Chile,CHL,7801,6435,3,"Argentina 6,691 km; Bolivia 942 km; Peru 168 km"
+China,CHN,22457,14500,14,"Afghanistan 91 km; Bhutan 477 km; Burma 2,129 km; India 2,659 km; Kazakhstan 1,765 km; North Korea 1,352 km; Kyrgyzstan 1,063 km; Laos 475 km; Mongolia 4,630 km; Nepal 1,389 km; Pakistan 438 km; Russia (northeast) 4,133 km and Russia (northwest) 46 km; Tajikistan 477 km; Vietnam 1,297 km"
+Christmas Island,CXR,0,138.9,0,
+Clipperton Island,,0,11.1,0,
+Cocos (Keeling) Islands,CCK,0,26,0,
+Colombia,COL,6672,3208,5,"Brazil 1,790 km; Ecuador 708 km; Panama 339 km; Peru 1,494 km; Venezuela 2,341 km"
+Comoros,COM,0,340,0,
+Congo,COG,5554,169,5,"Angola 231 km; Cameroon 494 km; Central African Republic 487 km; Democratic Republic of the Congo 1,775 km; Gabon 2,567 km"
+"Congo, The Democratic Republic of ",COD,11027,37,9,"Angola 2,646 km (of which 225 km is the boundary of Angola's discontiguous Cabinda Province); Burundi 236 km; Central African Republic 1,747 km; Republic of the Congo 1,775 km; Rwanda 221 km; South Sudan 714 km; Tanzania 479 km; Uganda 877 km; Zambia 2,332 km"
+Cook Islands,COK,0,120,0,
+Costa Rica,CRI,661,1290,2,Nicaragua 313 km; Panama 348 km
+Cote d'Ivoire,CIV,3458,515,5,Burkina Faso 545 km; Ghana 720 km; Guinea 816 km; Liberia 778 km; Mali 599 km
+Croatia,HRV,2237,5835,5,Bosnia and Herzegovina 956 km; Hungary 348 km; Montenegro 19 km; Serbia 314 km; Slovenia 600 km
+Cuba,CUB,28.5,3735,0,
+Curacao,CUW,0,364,0,
+Cyprus,CYP,156,648,0,
+Czechia,CZE,2046,0,4,Austria 402 km; Germany 704 km; Poland 699 km; Slovakia 241 km
+Denmark,DNK,141,7314,2,Germany 140 km; Canada 1.3 km
+Djibouti,DJI,528,314,3,Eritrea 125 km; Ethiopia 342 km; Somalia 61 km
+Dominica,DMA,0,148,0,
+Dominican Republic,DOM,376,1288,1,Haiti 376 km
+Ecuador,ECU,2237,2237,2,Colombia 708 km; Peru 1529 km
+Egypt,EGY,2612,2450,4,"Gaza Strip 13 km; Israel 208 km; Libya 1,115 km; Sudan 1,276 km"
+El Salvador,SLV,590,307,2,Guatemala 199 km; Honduras 391 km
+Equatorial Guinea,GNQ,528,296,2,Cameroon 183 km; Gabon 345 km
+Eritrea,ERI,1840,2234,3,"Djibouti 125 km; Ethiopia 1,033 km; Sudan 682 km"
+Estonia,EST,657,3794,2,Latvia 333 km; Russia 324 km
+Ethiopia,ETH,5925,0,6,"Djibouti 342 km; Eritrea 1,033 km; Kenya 867 km; Somalia 1,640 km; South Sudan 1,299 km; Sudan 744 km"
+Falkland Islands (Malvinas),FLK,0,1288,0,
+Faroe Islands,FRO,0,1117,0,
+Fiji,FJI,0,1129,0,
+Finland,FIN,2563,1250,3,"Norway 709 km; Sweden 545 km; Russia 1,309 km"
+France,FRA,3956,4853,8,Andorra 55 km; Belgium 556 km; Germany 418 km; Italy 476 km; Luxembourg 69 km; Monaco 6 km; Spain 646 km; Switzerland 525 km
+French Polynesia,PYF,0,2525,0,
+French Southern Territories,ATF,0,2800,0,
+Gabon,GAB,3261,885,3,"Cameroon 349 km; Republic of the Congo 2,567 km; Equatorial Guinea 345 km"
+Gambia,GMB,749,80,1,Senegal 749 km
+Gaza Strip,,72,40,2,Egypt 13 km; Israel 59 km
+Georgia,GEO,1814,310,4,Armenia 219 km; Azerbaijan 428 km; Russia 894 km; Turkey 273 km
+Germany,DEU,3694,2389,9,Austria 801 km; Belgium 133 km; Czechia 704 km; Denmark 140 km; France 418 km; Luxembourg 128 km; Netherlands 575 km; Poland 447 km; Switzerland 348 km
+Ghana,GHA,2420,539,3,Burkina Faso 602 km; Cote d'Ivoire 720 km; Togo 1098 km
+Gibraltar,GIB,1.2,12,1,Spain 1.2 km
+Greece,GRC,1110,13676,4,Albania 212 km; Bulgaria 472 km; North Macedonia 234 km; Turkey 192 km
+Greenland,GRL,0,44087,0,
+Grenada,GRD,0,121,0,
+Guam,GUM,0,125.5,0,
+Guatemala,GTM,1667,400,4,Belize 266 km; El Salvador 199 km; Honduras 244 km; Mexico 958 km
+Guernsey,GGY,0,50,0,
+Guinea,GIN,4046,320,6,Cote d'Ivoire 816 km; Guinea-Bissau 421 km; Liberia 590 km; Mali 1062 km; Senegal 363 km; Sierra Leone 794 km
+Guinea-Bissau,GNB,762,650,2,Guinea 421 km; Senegal 341 km
+Guyana,GUY,2933,459,3,"Brazil 1,308 km; Suriname 836 km; Venezuela 789 km"
+Haiti,HTI,376,1771,1,Dominican Republic 376 km
+Heard and Mc Donald Islands,HMD,0,101.9,0,
+Holy See (Vatican City State),VAT,3.4,0,1,Italy 3.4 km
+Honduras,HND,1575,823,3,Guatemala 244 km; El Salvador 391 km; Nicaragua 940 km
+Hong Kong,HKG,33,733,1,China 33 km
+Hungary,HUN,2106,0,7,Austria 321 km; Croatia 348 km; Romania 424 km; Serbia 164 km; Slovakia 627 km; Slovenia 94 km; Ukraine 128 km
+Iceland,ISL,0,4970,0,
+India,IND,13888,700,6,"Bangladesh 4,142 km; Bhutan 659 km; Burma 1,468 km; China 2,659 km; Nepal 1,770 km; Pakistan 3,190 km"
+Indonesia,IDN,2959,54716,3,"Malaysia 1,881 km; Papua New Guinea 824 km; Timor-Leste 253 km"
+"Iran, Islamic Republic of",IRN,5894,2440,7,"Afghanistan 921 km; Armenia 44 km; Azerbaijan 689 km; Iraq 1,599 km; Pakistan 959 km; Turkey 534 km; Turkmenistan 1,148 km"
+Iraq,IRQ,3809,58,6,"Iran 1,599 km; Jordan 179 km; Kuwait 254 km; Saudi Arabia 811 km; Syria 599 km; Turkey 367 km"
+Ireland,IRL,490,1448,1,UK 499 km
+Isle of Man,IMN,0,160,0,
+Israel,ISR,1068,273,6,Egypt 208 km; Gaza Strip 59 km; Jordan 327 km (20 km are within the Dead Sea); Lebanon 81 km; Syria 83 km; West Bank 330 km
+Italy,ITA,1836.4,7600,6,Austria 404 km; France 476 km; Holy See (Vatican City) 3.4 km; San Marino 37 km; Slovenia 218 km; Switzerland 698 km
+Jamaica,JAM,0,1022,0,
+Jan Mayen,,0,124.1,0,
+Japan,JPN,0,29751,0,
+Jersey,JEY,0,70,0,
+Jordan,JOR,1744,26,5,Iraq 179 km; Israel 307 km; Saudi Arabia 731 km; Syria 379 km; West Bank 148 km
+Kazakstan,KAZ,13364,0,5,"China 1,765 km; Kyrgyzstan 1,212 km; Russia 7,644 km; Turkmenistan 413 km; Uzbekistan 2,330 km"
+Kenya,KEN,3457,536,5,Ethiopia 867 km; Somalia 684 km; South Sudan 317 km; Tanzania 775 km; Uganda 814 km
+Kiribati,KIR,0,1143,0,
+"Korea, Democratic People's Republic of",PRK,1607,2495,3,"China 1,352 km; South Korea 237 km; Russia 18 km"
+"Korea, Republic of",KOR,237,2413,1,North Korea 237 km
+Kosovo (temporary code),XKX,714,0,4,Albania 112 km; North Macedonia 160 km; Montenegro 76 km; Serbia 366 km
+Kuwait,KWT,475,499,2,Iraq 254 km; Saudi Arabia 221 km
+Kyrgyzstan,KGZ,4573,0,4,"China 1,063 km; Kazakhstan 1,212 km; Tajikistan 984 km; Uzbekistan 1,314 km"
+"Lao, People's Democratic Republic",LAO,5274,0,5,"Burma 238 km; Cambodia 555 km; China 475 km; Thailand 1,845 km; Vietnam 2,161 km"
+Latvia,LVA,1370,498,4,Belarus 161 km; Estonia 333 km; Lithuania 544 km; Russia 332 km
+Lebanon,LBN,484,225,2,Israel 81 km; Syria 403 km
+Lesotho,LSO,1106,0,1,"South Africa 1,106 km"
+Liberia,LBR,1667,579,3,Guinea 590 km; Cote d'Ivoire 778 km; Sierra Leone 299 km
+Libyan Arab Jamahiriya,LBY,4339,1770,6,"Algeria 989 km; Chad 1,050 km; Egypt 1,115 km; Niger 342 km; Sudan 382 km; Tunisia 461 km"
+Liechtenstein,LIE,75,0,2,Austria 34 km; Switzerland 41 km
+Lithuania,LTU,1545,90,4,Belarus 640 km; Latvia 544 km; Poland 100 km; Russia (Kaliningrad) 261 km
+Luxembourg,LUX,327,0,3,Belgium 130 km; France 69 km; Germany 128 km
+Macao,MAC,3,41,1,China 3 km
+"Macedonia, The Former Yugoslav Republic Of",MKD,838,0,5,Albania 181 km; Bulgaria 162 km; Greece 234 km; Kosovo 160 km; Serbia 101 km
+Madagascar,MDG,0,4828,0,
+Malawi,MWI,2857,0,3,"Mozambique 1,498 km; Tanzania 512 km; Zambia 847 km"
+Malaysia,MYS,2742,4675,3,"Brunei 266 km; Indonesia 1,881 km; Thailand 595 km"
+Maldives,MDV,0,644,0,
+Mali,MLI,7908,0,6,"Algeria 1,359 km; Burkina Faso 1,325 km; Cote d'Ivoire 599 km; Guinea 1,062 km; Mauritania 2,236 km; Niger 838 km, Senegal 489 km"
+Malta,MLT,0,196.8,0,
+Marshall Islands,MHL,0,370.4,0,
+Mauritania,MRT,5002,754,4,"Algeria 460 km; Mali 2,236 km; Morocco 1,564 km; Senegal 742 km"
+Mauritius,MUS,0,177,0,
+Mexico,MEX,4389,9330,3,"Belize 276 km; Guatemala 958 km; US 3,155 km"
+"Micronesia, Federated States of",FSM,0,6112,0,
+"Moldova, Republic of",MDA,1885,0,2,Romania 683 km; Ukraine 1202 km
+Monaco,MCO,6,4.1,1,France 6 km
+Mongolia,MNG,8082,0,2,"China 4,630 km; Russia 3,452 km"
+Montenegro,MNE,680,293.5,5,Albania 186 km; Bosnia and Herzegovina 242 km; Croatia 19 km; Kosovo 76 km; Serbia 157 km
+Montserrat,MSR,0,40,0,
+Morocco,MAR,3523.5,2945,3,"Algeria 1,941 km; Mauritania 1,564 km; Spain (Ceuta) 8 km and Spain (Melilla) 10.5 km"
+Mozambique,MOZ,4783,2470,6,"Malawi 1498 km; South Africa 496 km; Eswatini 108 km; Tanzania 840 km; Zambia 439 km; Zimbabwe 1,402 km"
+Myanmar,MMR,6522,1930,5,"Bangladesh 271 km; China 2,129 km; India 1,468 km; Laos 238 km; Thailand 2,416 km"
+Namibia,NAM,4220,1572,4,"Angola 1,427 km; Botswana 1,544 km; South Africa 1,005 km; Zambia 244 km"
+Nauru,NRU,0,30,0,
+Nepal,NPL,3159,0,2,"China 1,389 km; India 1,770 km"
+Netherlands,NLD,1053,451,2,Belgium 478 km; Germany 575 km
+New Caledonia,NCL,0,2254,0,
+New Zealand,NZL,0,15134,0,
+Nicaragua,NIC,1253,910,2,Costa Rica 313 km; Honduras 940 km
+Niger,NER,5834,0,7,"Algeria 951 km; Benin 277 km; Burkina Faso 622 km; Chad 1,196 km; Libya 342 km; Mali 838 km; Nigeria 1,608 km"
+Nigeria,NGA,4477,853,4,"Benin 809 km; Cameroon 1,975 km; Chad 85 km; Niger 1,608 km"
+Niue,NIU,0,64,0,
+Norfolk Island,NFK,0,32,0,
+Northern Mariana Islands,MNP,0,1482,0,
+Norway,NOR,2566,25148,3,"Finland 709 km; Sweden 1,666 km; Russia 191 km"
+Oman,OMN,1561,2092,3,Saudi Arabia 658 km; UAE 609 km; Yemen 294 km
+Pakistan,PAK,7257,1046,4,"Afghanistan 2,670 km; China 438 km; India 3,190 km; Iran 959 km"
+Palau,PLW,0,1519,0,
+Panama,PAN,687,2490,2,Colombia 339 km; Costa Rica 348 km
+Papua New Guinea,PNG,824,5152,1,Indonesia 824 km
+Paracel Islands,,0,518,0,
+Paraguay,PRY,4655,0,3,"Argentina 2,531 km; Bolivia 753 km; Brazil 1,371 km"
+Peru,PER,7062,2414,5,"Bolivia 1,212 km; Brazil 2,659 km; Chile 168 km; Colombia 1,494 km; Ecuador 1,529 km"
+Philippines,PHL,0,36289,0,
+Pitcairn,PCN,0,51,0,
+Poland,POL,2865,440,6,"Belarus 375 km; Czechia 699 km; Germany 467 km; Lithuania 100 km, Russia (Kaliningrad Oblast) 209 km; Slovakia 517 km; Ukraine 498 km"
+Portugal,PRT,1224,1793,1,"Spain 1,224 km"
+Puerto Rico,PRI,0,501,0,
+Qatar,QAT,87,563,1,Saudi Arabia 87 km
+Romania,ROU,2844,225,5,Bulgaria 605 km; Hungary 424 km; Moldova 683 km; Serbia 531 km; Ukraine 601 km
+Russia Federation,RUS,22407,37653,14,"Azerbaijan 338 km; Belarus 1,312 km; China (southeast) 4,133 km and China (south) 46 km; Estonia 324 km; Finland 1,309 km; Georgia 894 km; Kazakhstan 7,644 km; North Korea 18 km; Latvia 332 km; Lithuania (Kaliningrad Oblast) 261 km; Mongolia 3,452 km; Norway 191 km; Poland (Kaliningrad Oblast) 209 km; Ukraine 1,944 km"
+Rwanda,RWA,930,0,4,Burundi 315 km; Democratic Republic of the Congo 221 km; Tanzania 222 km; Uganda 172 km
+Saint Barthelemy,BLM,0,,,
+Saint Helena,SHN,0,60,0,
+Saint Kitts & Nevis,KNA,0,135,0,
+Saint Lucia,LCA,0,158,0,
+Saint Martin,MAF,16,58.9,1,Sint Maarten 16 km
+Saint Pierre and Miquelon,SPM,0,120,0,
+Saint Vincent and the Grenadines,VCT,0,84,0,
+Samoa,WSM,0,403,0,
+San Marino,SMR,37,0,1,Italy 37 km
+Sao Tome and Principe,STP,0,209,0,
+Saudi Arabia,SAU,4272,2640,7,"Iraq 811 km; Jordan 731 km; Kuwait 221 km; Oman 658 km; Qatar 87 km; UAE 457 km; Yemen 1,307 km"
+Senegal,SEN,2684,531,5,The Gambia 749 km; Guinea 363 km; Guinea-Bissau 341 km; Mali 489 km; Mauritania 742 km
+Seychelles,SYC,0,491,0,
+Sierra Leone,SLE,1093,402,2,Guinea 794 km; Liberia 299 km
+Singapore,SGP,0,193,0,
+Sint Maarten,SXM,16,58.9,1,Saint Martin (France) 16 km
+Slovakia,SVK,1587,0,5,Austria 105 km; Czechia 241 km; Hungary 627 km; Poland 517 km; Ukraine 97 km
+Slovenia,SVN,1211,46.6,4,Austria 299 km; Croatia 600 km; Hungary 94 km; Italy 218 km
+Solomon Islands,SLB,0,5313,0,
+Somalia,SOM,2385,3025,3,"Djibouti 61 km; Ethiopia 1,640 km; Kenya 684 km"
+South Africa,ZAF,5244,2798,6,"Botswana 1,969 km; Lesotho 1,106 km; Mozambique 496 km; Namibia 1,005 km; Eswatini 438 km; Zimbabwe 230 km"
+South Georgia & The South Sandwich Islands,SGS,0,,,
+South Sudan,SSD,6018,0,6,"Central African Republic 1,055 km; Democratic Republic of the Congo 714 km; Ethiopia 1,299 km; Kenya 317 km; Sudan 2,158 km; Uganda 475 km"
+Spain,ESP,1952.7,4964,5,"Andorra 63 km; France 646 km; Gibraltar 1.2 km; Portugal 1,224 km; Morocco (Ceuta) 8 km and Morocco (Melilla) 10.5 km"
+Sri Lanka,LKA,0,1340,0,
+Sudan,SDN,6819,853,7,"Central African Republic 174 km; Chad 1,403 km; Egypt 1,276 km; Eritrea 682 km; Ethiopia 744 km; Libya 382 km; South Sudan 2,158 km"
+Suriname,SUR,1907,836,3,Brazil 515 km; French Guiana 556 km; Guyana 836 km
+Svalbard and Jan Mayen,SJM,0,3587,0,
+Swaziland,SWZ,546,0,2,Mozambique 108 km; South Africa 438 km
+Sweden,SWE,2211,3218,2,"Finland 545 km; Norway 1,666 km"
+Switzerland,CHE,1770,0,5,Austria 158 km; France 525 km; Italy 698 km; Liechtenstein 41 km; Germany 348 km
+Syrian Arab Republic,SYR,2363,193,5,Iraq 599 km; Israel 83 km; Jordan 379 km; Lebanon 403 km; Turkey 899 km
+"Taiwan, Province of China",TWN,0,1566.3,0,
+Tajikistan,TJK,4130,0,4,"Afghanistan 1,357 km; China 477 km; Kyrgyzstan 984 km; Uzbekistan 1,312 km"
+"Tanzania, United Republic of",TZA,4161,1424,8,Burundi 589 km; Democratic Republic of the Congo 479 km; Kenya 775 km; Malawi 512 km; Mozambique 840 km; Rwanda 222 km; Uganda 391 km; Zambia 353 km
+Thailand,THA,5673,3219,4,"Burma 2,416 km; Cambodia 817 km; Laos 1,845 km; Malaysia 595 km"
+Timor-Leste,TLS,253,706,1,Indonesia 253 km
+Togo,TGO,1880,56,3,"Benin 651 km; Burkina Faso 131 km; Ghana 1,098 km"
+Tokelau,TKL,0,121,0,
+Tonga,TON,0,419,0,
+Trinidad and Tobago,TTO,0,362,0,
+Tunisia,TUN,1495,1148,2,"Algeria 1,034 km; Libya 461 km"
+Turkey,TUR,2816,7200,8,Armenia 311 km; Azerbaijan 17 km; Bulgaria 223 km; Georgia 273 km; Greece 192 km; Iran 534 km; Iraq 367 km; Syria 899 km
+Turkmenistan,TKM,4158,0,4,"Afghanistan 804 km; Iran 1,148 km; Kazakhstan 413 km; Uzbekistan 1,793 km"
+Turks and Caicos Islands,TCA,0,389,0,
+Tuvalu,TUV,0,24,0,
+Uganda,UGA,2729,0,5,Democratic Republic of the Congo 877 km; Kenya 814 km; Rwanda 172 km; South Sudan 475 km; Tanzania 391 km
+Ukraine,UKR,5581,2782,6,"Belarus 1,111 km; Hungary 128 km; Moldova 1,202 km; Poland 498 km; Romania 601 km; Russia 1,944 km, Slovakia 97 km"
+United Arab Emirates,ARE,1066,1318,2,Oman 609 km; Saudi Arabia 457 km
+United Kingdom,GBR,499,12429,1,Ireland 499 km
+United States,USA,12002,19924,2,"Canada 8,891 km (including 2,475 km with Alaska); Mexico 3,111 km"
+United States Minor Outlying Islands,UMI,0,85.7,0,
+Uruguay,URY,1591,660,2,"Argentina 541 km; Brazil 1,050 km"
+Uzbekistan,UZB,6893,0,5,"Afghanistan 144 km; Kazakhstan 2,330 km; Kyrgyzstan 1,314 km; Tajikistan 1,312 km; Turkmenistan 1,793 km"
+Vanuatu,VUT,0,2528,0,
+Venezuela,VEN,5267,2800,3,"Brazil 2,137 km; Colombia 2,341 km; Guyana 789 km"
+Vietnam,VNM,4616,3444,3,"Cambodia 1,158 km; China 1,297 km; Laos 2,161 km"
+"Virgin Islands, British",VGB,0,80,0,
+"Virgin Islands, U.S.",VIR,0,188,0,
+Wallis and Futuna,WLF,0,129,0,
+West Bank,,478,0,2,Israel 330 km; Jordan 148 km
+Yemen,YEM,1601,1906,2,"Oman 294 km; Saudi Arabia 1,307 km"
+Zambia,ZMB,6043.15,0,8,"Angola 1,065 km; Botswana 0.15 km; Democratic Republic of the Congo 2,332 km; Malawi 847 km; Mozambique 439 km; Namibia 244 km; Tanzania 353 km; Zimbabwe 763 km"
+Zimbabwe,ZWE,3229,0,4,"Botswana 834 km; Mozambique 1,402 km; South Africa 230 km; Zambia 763 km"

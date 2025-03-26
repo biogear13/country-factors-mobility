@@ -15,3 +15,4 @@
 - Median age https://ourworldindata.org/grapher/median-age?tab=map&time=2019
 - Land area https://ourworldindata.org/grapher/land-area-km
 - Geopgraphic data https://www.cia.gov/the-world-factbook/countries/
+- Population in poverty https://ourworldindata.org/poverty
