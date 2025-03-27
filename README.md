@@ -16,3 +16,6 @@
 - Land area https://ourworldindata.org/grapher/land-area-km
 - Geopgraphic data https://www.cia.gov/the-world-factbook/countries/
 - Population in poverty https://ourworldindata.org/poverty
+
+## Questions
+- how to decide which rows with missing values should be removed

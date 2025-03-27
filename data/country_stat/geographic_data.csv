@@ -80,7 +80,6 @@ French Polynesia,PYF,0,2525,0,
 French Southern Territories,ATF,0,2800,0,
 Gabon,GAB,3261,885,3,"Cameroon 349 km; Republic of the Congo 2,567 km; Equatorial Guinea 345 km"
 Gambia,GMB,749,80,1,Senegal 749 km
-Gaza Strip,,72,40,2,Egypt 13 km; Israel 59 km
 Georgia,GEO,1814,310,4,Armenia 219 km; Azerbaijan 428 km; Russia 894 km; Turkey 273 km
 Germany,DEU,3694,2389,9,Austria 801 km; Belgium 133 km; Czechia 704 km; Denmark 140 km; France 418 km; Luxembourg 128 km; Netherlands 575 km; Poland 447 km; Switzerland 348 km
 Ghana,GHA,2420,539,3,Burkina Faso 602 km; Cote d'Ivoire 720 km; Togo 1098 km
@@ -168,6 +167,7 @@ Norway,NOR,2566,25148,3,"Finland 709 km; Sweden 1,666 km; Russia 191 km"
 Oman,OMN,1561,2092,3,Saudi Arabia 658 km; UAE 609 km; Yemen 294 km
 Pakistan,PAK,7257,1046,4,"Afghanistan 2,670 km; China 438 km; India 3,190 km; Iran 959 km"
 Palau,PLW,0,1519,0,
+Palestine,PSE,550,40,3,Egypt 13 km; Israel 389 km; Jordan 148 km
 Panama,PAN,687,2490,2,Colombia 339 km; Costa Rica 348 km
 Papua New Guinea,PNG,824,5152,1,Indonesia 824 km
 Paracel Islands,,0,518,0,
@@ -242,7 +242,6 @@ Vietnam,VNM,4616,3444,3,"Cambodia 1,158 km; China 1,297 km; Laos 2,161 km"
 "Virgin Islands, British",VGB,0,80,0,
 "Virgin Islands, U.S.",VIR,0,188,0,
 Wallis and Futuna,WLF,0,129,0,
-West Bank,,478,0,2,Israel 330 km; Jordan 148 km
 Yemen,YEM,1601,1906,2,"Oman 294 km; Saudi Arabia 1,307 km"
 Zambia,ZMB,6043.15,0,8,"Angola 1,065 km; Botswana 0.15 km; Democratic Republic of the Congo 2,332 km; Malawi 847 km; Mozambique 439 km; Namibia 244 km; Tanzania 353 km; Zimbabwe 763 km"
 Zimbabwe,ZWE,3229,0,4,"Botswana 834 km; Mozambique 1,402 km; South Africa 230 km; Zambia 763 km"
