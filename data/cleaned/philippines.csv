@@ -1,0 +1,353 @@
+,Country,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline,Code,policy_list,policy_count
+0,Philippines,2020-02-15,7.0,4.0,-1.0,1.0,6.0,0.0,PHL,,
+1,Philippines,2020-02-16,3.0,5.0,-2.0,-3.0,1.0,1.0,PHL,,
+2,Philippines,2020-02-17,-1.0,0.0,-3.0,-2.0,8.0,1.0,PHL,,
+3,Philippines,2020-02-18,0.0,1.0,-3.0,0.0,5.0,0.0,PHL,,
+4,Philippines,2020-02-19,-3.0,-3.0,-4.0,-6.0,5.0,1.0,PHL,,
+5,Philippines,2020-02-20,-2.0,-2.0,-5.0,-5.0,6.0,0.0,PHL,,
+6,Philippines,2020-02-21,-2.0,-2.0,-8.0,-6.0,8.0,1.0,PHL,,
+7,Philippines,2020-02-22,1.0,0.0,-1.0,-1.0,7.0,0.0,PHL,,
+8,Philippines,2020-02-23,-3.0,0.0,0.0,-7.0,2.0,1.0,PHL,,
+9,Philippines,2020-02-24,1.0,-1.0,6.0,-4.0,4.0,1.0,PHL,,
+10,Philippines,2020-02-25,0.0,-2.0,11.0,-18.0,-43.0,11.0,PHL,,
+11,Philippines,2020-02-26,-3.0,-1.0,0.0,-3.0,6.0,0.0,PHL,,
+12,Philippines,2020-02-27,-2.0,-1.0,-4.0,-6.0,6.0,0.0,PHL,,
+13,Philippines,2020-02-28,-1.0,1.0,-6.0,-6.0,8.0,0.0,PHL,,
+14,Philippines,2020-02-29,5.0,6.0,-1.0,0.0,9.0,0.0,PHL,,
+15,Philippines,2020-03-01,2.0,7.0,0.0,-5.0,5.0,1.0,PHL,,
+16,Philippines,2020-03-02,0.0,2.0,-2.0,-5.0,9.0,0.0,PHL,,
+17,Philippines,2020-03-03,1.0,2.0,-2.0,-4.0,7.0,0.0,PHL,,
+18,Philippines,2020-03-04,-1.0,2.0,-1.0,-7.0,6.0,1.0,PHL,,
+19,Philippines,2020-03-05,0.0,2.0,-3.0,-6.0,7.0,0.0,PHL,,
+20,Philippines,2020-03-06,-3.0,-1.0,-9.0,-8.0,8.0,1.0,PHL,,
+21,Philippines,2020-03-07,0.0,2.0,-1.0,-4.0,7.0,1.0,PHL,,
+22,Philippines,2020-03-08,-4.0,2.0,-2.0,-9.0,3.0,1.0,PHL,,
+23,Philippines,2020-03-09,-3.0,1.0,-1.0,-7.0,7.0,1.0,PHL,,
+24,Philippines,2020-03-10,-4.0,3.0,-5.0,-11.0,-4.0,3.0,PHL,['local:I:Limit public gatherings'],1.0
+25,Philippines,2020-03-11,-8.0,5.0,-6.0,-17.0,-5.0,4.0,PHL,,
+26,Philippines,2020-03-12,-8.0,8.0,-8.0,-17.0,-6.0,5.0,PHL,['local:I:Border checks'],1.0
+27,Philippines,2020-03-13,-12.0,9.0,-16.0,-17.0,-9.0,7.0,PHL,,
+28,Philippines,2020-03-14,-18.0,5.0,-20.0,-15.0,-6.0,6.0,PHL,['national:I:Curfews'],1.0
+29,Philippines,2020-03-15,-40.0,-10.0,-29.0,-42.0,-10.0,11.0,PHL,"['local:I:Domestic travel restrictions', 'local:I:Isolation and quarantine policies']",2.0
+30,Philippines,2020-03-16,-34.0,-4.0,-18.0,-42.0,-31.0,15.0,PHL,,
+31,Philippines,2020-03-17,-57.0,-21.0,-30.0,-63.0,-55.0,24.0,PHL,"['national:I:Additional health/documents requirements upon arrival', 'local:I:Domestic travel restrictions']",2.0
+32,Philippines,2020-03-18,-66.0,-36.0,-36.0,-72.0,-62.0,28.0,PHL,,
+33,Philippines,2020-03-19,-69.0,-41.0,-39.0,-75.0,-65.0,30.0,PHL,,
+34,Philippines,2020-03-20,-73.0,-45.0,-47.0,-79.0,-66.0,33.0,PHL,,
+35,Philippines,2020-03-21,-75.0,-48.0,-52.0,-78.0,-57.0,27.0,PHL,,
+36,Philippines,2020-03-22,-79.0,-53.0,-56.0,-79.0,-50.0,24.0,PHL,"['national:I:Border closure', 'local:I:Curfews']",2.0
+37,Philippines,2020-03-23,-75.0,-50.0,-45.0,-81.0,-69.0,33.0,PHL,,
+38,Philippines,2020-03-24,-76.0,-51.0,-47.0,-81.0,-71.0,33.0,PHL,['national:I:Limit public gatherings'],1.0
+39,Philippines,2020-03-25,-76.0,-51.0,-46.0,-81.0,-72.0,34.0,PHL,['local:I:Limit public gatherings'],1.0
+40,Philippines,2020-03-26,-76.0,-52.0,-47.0,-81.0,-72.0,34.0,PHL,,
+41,Philippines,2020-03-27,-77.0,-51.0,-52.0,-83.0,-72.0,37.0,PHL,,
+42,Philippines,2020-03-28,-78.0,-53.0,-56.0,-82.0,-62.0,30.0,PHL,,
+43,Philippines,2020-03-29,-81.0,-59.0,-59.0,-82.0,-54.0,26.0,PHL,,
+44,Philippines,2020-03-30,-79.0,-59.0,-48.0,-84.0,-73.0,35.0,PHL,,
+45,Philippines,2020-03-31,-79.0,-57.0,-49.0,-83.0,-74.0,35.0,PHL,,
+46,Philippines,2020-04-01,-79.0,-58.0,-48.0,-84.0,-74.0,35.0,PHL,['local:I:Full lockdown'],1.0
+47,Philippines,2020-04-02,-80.0,-58.0,-49.0,-84.0,-74.0,36.0,PHL,['national:I:Limit public gatherings'],1.0
+48,Philippines,2020-04-03,-80.0,-58.0,-54.0,-85.0,-73.0,39.0,PHL,,
+49,Philippines,2020-04-04,-80.0,-58.0,-57.0,-84.0,-63.0,31.0,PHL,['local:I:Curfews'],1.0
+50,Philippines,2020-04-05,-82.0,-62.0,-60.0,-84.0,-54.0,26.0,PHL,,
+51,Philippines,2020-04-06,-78.0,-57.0,-48.0,-84.0,-72.0,35.0,PHL,['local:I:Limit public gatherings'],1.0
+52,Philippines,2020-04-07,-77.0,-54.0,-48.0,-83.0,-74.0,35.0,PHL,"['local:I:Curfews', 'national:I:Limit public gatherings', 'local:I:Partial lockdown']",3.0
+53,Philippines,2020-04-08,-76.0,-50.0,-47.0,-83.0,-74.0,34.0,PHL,,
+54,Philippines,2020-04-09,-85.0,-65.0,-51.0,-86.0,-80.0,38.0,PHL,,
+55,Philippines,2020-04-10,-90.0,-78.0,-59.0,-90.0,-82.0,43.0,PHL,['local:I:Full lockdown'],1.0
+56,Philippines,2020-04-11,-82.0,-60.0,-59.0,-86.0,-67.0,32.0,PHL,['local:I:Partial lockdown'],1.0
+57,Philippines,2020-04-12,-82.0,-62.0,-60.0,-84.0,-55.0,26.0,PHL,['local:I:Full lockdown'],1.0
+58,Philippines,2020-04-13,-76.0,-53.0,-47.0,-83.0,-71.0,35.0,PHL,['local:I:Partial lockdown'],1.0
+59,Philippines,2020-04-14,-76.0,-52.0,-48.0,-82.0,-73.0,35.0,PHL,['national:I:Full lockdown'],1.0
+60,Philippines,2020-04-15,-76.0,-53.0,-48.0,-83.0,-72.0,35.0,PHL,"['local:I:Curfews', 'local:I:Partial lockdown']",2.0
+61,Philippines,2020-04-16,-77.0,-54.0,-48.0,-84.0,-72.0,36.0,PHL,"['national:P:Border closure', 'local:I:Curfews', 'national:I:Full lockdown', 'local:I:Partial lockdown']",4.0
+62,Philippines,2020-04-17,-79.0,-56.0,-53.0,-85.0,-71.0,39.0,PHL,['local:I:Border closure'],1.0
+63,Philippines,2020-04-18,-81.0,-61.0,-60.0,-84.0,-62.0,30.0,PHL,,
+64,Philippines,2020-04-19,-83.0,-66.0,-63.0,-85.0,-54.0,26.0,PHL,,
+65,Philippines,2020-04-20,-78.0,-58.0,-50.0,-84.0,-71.0,35.0,PHL,['local:P:Domestic travel restrictions'],1.0
+66,Philippines,2020-04-21,-79.0,-60.0,-51.0,-84.0,-72.0,35.0,PHL,,
+67,Philippines,2020-04-22,-80.0,-62.0,-51.0,-85.0,-72.0,35.0,PHL,,
+68,Philippines,2020-04-23,-80.0,-62.0,-53.0,-85.0,-72.0,36.0,PHL,"['national:I:Curfews', 'local:I:Full lockdown']",2.0
+69,Philippines,2020-04-24,-81.0,-63.0,-57.0,-86.0,-71.0,38.0,PHL,,
+70,Philippines,2020-04-25,-81.0,-62.0,-60.0,-85.0,-61.0,31.0,PHL,['national:I:Isolation and quarantine policies'],1.0
+71,Philippines,2020-04-26,-84.0,-69.0,-63.0,-85.0,-53.0,27.0,PHL,,
+72,Philippines,2020-04-27,-78.0,-60.0,-50.0,-84.0,-69.0,35.0,PHL,,
+73,Philippines,2020-04-28,-77.0,-58.0,-50.0,-83.0,-71.0,35.0,PHL,['local:I:Full lockdown'],1.0
+74,Philippines,2020-04-29,-77.0,-57.0,-48.0,-83.0,-70.0,34.0,PHL,['national:I:Isolation and quarantine policies'],1.0
+75,Philippines,2020-04-30,-82.0,-50.0,-54.0,-79.0,-69.0,34.0,PHL,"['national:I:Isolation and quarantine policies', 'local:I:Limit public gatherings']",2.0
+76,Philippines,2020-05-01,-84.0,-53.0,-59.0,-82.0,-74.0,39.0,PHL,"['national:P:Border closure', 'national:P:Domestic travel restrictions', 'national:P:Limit public gatherings', 'national:I:Limit public gatherings', 'national:P:Partial lockdown']",5.0
+77,Philippines,2020-05-02,-84.0,-53.0,-62.0,-79.0,-58.0,30.0,PHL,,
+78,Philippines,2020-05-03,-87.0,-63.0,-66.0,-81.0,-51.0,26.0,PHL,['national:I:International flights suspension'],1.0
+79,Philippines,2020-05-04,-81.0,-51.0,-53.0,-78.0,-66.0,33.0,PHL,,
+80,Philippines,2020-05-05,-81.0,-48.0,-53.0,-77.0,-67.0,33.0,PHL,['national:I:International flights suspension'],1.0
+81,Philippines,2020-05-06,-80.0,-47.0,-52.0,-76.0,-67.0,33.0,PHL,,
+82,Philippines,2020-05-07,-80.0,-47.0,-52.0,-77.0,-67.0,33.0,PHL,['national:P:Limit public gatherings'],1.0
+83,Philippines,2020-05-08,-80.0,-47.0,-56.0,-78.0,-65.0,36.0,PHL,,
+84,Philippines,2020-05-09,-79.0,-45.0,-59.0,-75.0,-53.0,28.0,PHL,"['local:I:Full lockdown', 'national:I:International flights suspension']",2.0
+85,Philippines,2020-05-10,-81.0,-51.0,-61.0,-76.0,-45.0,24.0,PHL,['local:I:Domestic travel restrictions'],1.0
+86,Philippines,2020-05-11,-78.0,-45.0,-50.0,-75.0,-63.0,33.0,PHL,['national:I:Limit public gatherings'],1.0
+87,Philippines,2020-05-12,-78.0,-44.0,-51.0,-75.0,-65.0,33.0,PHL,['local:P:Partial lockdown'],1.0
+88,Philippines,2020-05-13,-78.0,-44.0,-51.0,-76.0,-64.0,33.0,PHL,['national:I:Domestic travel restrictions'],1.0
+89,Philippines,2020-05-14,-78.0,-44.0,-52.0,-76.0,-65.0,32.0,PHL,"['national:I:International flights suspension', 'national:I:Partial lockdown']",2.0
+90,Philippines,2020-05-15,-80.0,-50.0,-56.0,-79.0,-64.0,35.0,PHL,['national:P:Limit public gatherings'],1.0
+91,Philippines,2020-05-16,-75.0,-38.0,-58.0,-72.0,-49.0,26.0,PHL,"['national:P:Limit public gatherings', 'local:I:Partial lockdown']",2.0
+92,Philippines,2020-05-17,-79.0,-48.0,-61.0,-74.0,-40.0,23.0,PHL,['national:I:Domestic travel restrictions'],1.0
+93,Philippines,2020-05-18,-70.0,-33.0,-47.0,-68.0,-55.0,29.0,PHL,,
+94,Philippines,2020-05-19,-71.0,-35.0,-49.0,-69.0,-58.0,29.0,PHL,['national:I:Domestic travel restrictions'],1.0
+95,Philippines,2020-05-20,-70.0,-34.0,-48.0,-70.0,-57.0,30.0,PHL,,
+96,Philippines,2020-05-21,-70.0,-34.0,-48.0,-70.0,-57.0,30.0,PHL,['national:I:Domestic travel restrictions'],1.0
+97,Philippines,2020-05-22,-72.0,-37.0,-54.0,-72.0,-55.0,32.0,PHL,,
+98,Philippines,2020-05-23,-73.0,-38.0,-57.0,-70.0,-42.0,25.0,PHL,,
+99,Philippines,2020-05-24,-78.0,-47.0,-59.0,-73.0,-37.0,23.0,PHL,,
+100,Philippines,2020-05-25,-70.0,-34.0,-47.0,-72.0,-65.0,32.0,PHL,['national:P:Limit public gatherings'],1.0
+101,Philippines,2020-05-26,-68.0,-33.0,-47.0,-67.0,-54.0,28.0,PHL,['national:I:Isolation and quarantine policies'],1.0
+102,Philippines,2020-05-27,-69.0,-34.0,-46.0,-68.0,-54.0,28.0,PHL,,
+103,Philippines,2020-05-28,-69.0,-34.0,-48.0,-68.0,-54.0,29.0,PHL,"['national:I:Checkpoints within the country', 'national:I:Curfews', 'national:P:Limit public gatherings']",3.0
+104,Philippines,2020-05-29,-70.0,-33.0,-52.0,-69.0,-51.0,31.0,PHL,['national:I:Isolation and quarantine policies'],1.0
+105,Philippines,2020-05-30,-69.0,-32.0,-55.0,-67.0,-36.0,23.0,PHL,['national:P:Domestic travel restrictions'],1.0
+106,Philippines,2020-05-31,-74.0,-40.0,-57.0,-69.0,-30.0,21.0,PHL,['local:I:Curfews'],1.0
+107,Philippines,2020-06-01,-62.0,-21.0,-43.0,-59.0,-45.0,25.0,PHL,"['local:P:Curfews', 'local:P:Full lockdown', 'local:P:Limit public gatherings']",3.0
+108,Philippines,2020-06-02,-62.0,-22.0,-43.0,-59.0,-48.0,25.0,PHL,,
+109,Philippines,2020-06-03,-62.0,-22.0,-42.0,-59.0,-48.0,25.0,PHL,,
+110,Philippines,2020-06-04,-62.0,-22.0,-43.0,-59.0,-48.0,26.0,PHL,['national:I:Isolation and quarantine policies'],1.0
+111,Philippines,2020-06-05,-60.0,-24.0,-46.0,-61.0,-46.0,27.0,PHL,['national:P:Domestic travel restrictions'],1.0
+112,Philippines,2020-06-06,-60.0,-23.0,-49.0,-59.0,-31.0,21.0,PHL,,
+113,Philippines,2020-06-07,-65.0,-32.0,-52.0,-62.0,-24.0,20.0,PHL,,
+114,Philippines,2020-06-08,-55.0,-19.0,-39.0,-56.0,-43.0,24.0,PHL,['national:I:Isolation and quarantine policies'],1.0
+115,Philippines,2020-06-09,-56.0,-22.0,-40.0,-56.0,-46.0,24.0,PHL,,
+116,Philippines,2020-06-10,-58.0,-24.0,-41.0,-58.0,-46.0,25.0,PHL,,
+117,Philippines,2020-06-11,-56.0,-22.0,-41.0,-56.0,-47.0,24.0,PHL,,
+118,Philippines,2020-06-12,-61.0,-27.0,-48.0,-65.0,-58.0,31.0,PHL,,
+119,Philippines,2020-06-13,-58.0,-23.0,-49.0,-58.0,-30.0,21.0,PHL,,
+120,Philippines,2020-06-14,-63.0,-31.0,-50.0,-60.0,-21.0,19.0,PHL,,
+121,Philippines,2020-06-15,-51.0,-17.0,-37.0,-54.0,-41.0,23.0,PHL,['local:I:Domestic travel restrictions'],1.0
+122,Philippines,2020-06-16,-51.0,-14.0,-36.0,-53.0,-44.0,23.0,PHL,"['national:I:Domestic travel restrictions', 'local:P:Partial lockdown', 'local:I:Partial lockdown']",3.0
+123,Philippines,2020-06-17,-53.0,-18.0,-37.0,-55.0,-44.0,24.0,PHL,,
+124,Philippines,2020-06-18,-53.0,-26.0,-29.0,-59.0,-45.0,24.0,PHL,,
+125,Philippines,2020-06-19,-56.0,-29.0,-36.0,-62.0,-44.0,27.0,PHL,,
+126,Philippines,2020-06-20,-52.0,-23.0,-37.0,-57.0,-26.0,19.0,PHL,,
+127,Philippines,2020-06-21,-57.0,-30.0,-36.0,-60.0,-17.0,18.0,PHL,['national:I:International flights suspension'],1.0
+128,Philippines,2020-06-22,-50.0,-24.0,-25.0,-56.0,-42.0,23.0,PHL,,
+129,Philippines,2020-06-23,-50.0,-23.0,-26.0,-55.0,-45.0,24.0,PHL,,
+130,Philippines,2020-06-24,-52.0,-25.0,-25.0,-58.0,-45.0,24.0,PHL,,
+131,Philippines,2020-06-25,-51.0,-24.0,-29.0,-57.0,-44.0,24.0,PHL,,
+132,Philippines,2020-06-26,-53.0,-25.0,-34.0,-59.0,-42.0,25.0,PHL,"['national:I:Border closure', 'national:P:Limit public gatherings']",2.0
+133,Philippines,2020-06-27,-53.0,-25.0,-38.0,-57.0,-28.0,20.0,PHL,,
+134,Philippines,2020-06-28,-61.0,-36.0,-42.0,-62.0,-21.0,18.0,PHL,,
+135,Philippines,2020-06-29,-48.0,-22.0,-26.0,-55.0,-41.0,22.0,PHL,['local:I:Isolation and quarantine policies'],1.0
+136,Philippines,2020-06-30,-45.0,-18.0,-26.0,-55.0,-43.0,22.0,PHL,,
+137,Philippines,2020-07-01,-48.0,-20.0,-26.0,-57.0,-43.0,23.0,PHL,['local:I:Full lockdown'],1.0
+138,Philippines,2020-07-02,-49.0,-22.0,-28.0,-58.0,-44.0,23.0,PHL,,
+139,Philippines,2020-07-03,-51.0,-24.0,-33.0,-59.0,-41.0,25.0,PHL,,
+140,Philippines,2020-07-04,-52.0,-26.0,-38.0,-59.0,-27.0,20.0,PHL,,
+141,Philippines,2020-07-05,-57.0,-30.0,-38.0,-62.0,-20.0,18.0,PHL,,
+142,Philippines,2020-07-06,-47.0,-22.0,-26.0,-56.0,-41.0,23.0,PHL,,
+143,Philippines,2020-07-07,-47.0,-20.0,-26.0,-56.0,-44.0,23.0,PHL,"['national:P:Border closure', 'national:P:Domestic travel restrictions', 'national:P:International flights suspension']",3.0
+144,Philippines,2020-07-08,-49.0,-23.0,-27.0,-58.0,-43.0,23.0,PHL,['local:I:Limit public gatherings'],1.0
+145,Philippines,2020-07-09,-50.0,-25.0,-27.0,-58.0,-44.0,23.0,PHL,,
+146,Philippines,2020-07-10,-51.0,-24.0,-34.0,-59.0,-42.0,25.0,PHL,"['national:I:Domestic travel restrictions', 'national:I:Health screenings in airports and border crossings', 'local:I:Isolation and quarantine policies', 'national:P:Limit public gatherings']",4.0
+147,Philippines,2020-07-11,-50.0,-18.0,-35.0,-57.0,-26.0,19.0,PHL,,
+148,Philippines,2020-07-12,-56.0,-29.0,-36.0,-61.0,-19.0,18.0,PHL,['national:I:Isolation and quarantine policies'],1.0
+149,Philippines,2020-07-13,-50.0,-26.0,-28.0,-58.0,-41.0,24.0,PHL,,
+150,Philippines,2020-07-14,-46.0,-20.0,-25.0,-56.0,-44.0,23.0,PHL,,
+151,Philippines,2020-07-15,-46.0,-20.0,-26.0,-57.0,-43.0,23.0,PHL,,
+152,Philippines,2020-07-16,-45.0,-17.0,-25.0,-57.0,-43.0,23.0,PHL,,
+153,Philippines,2020-07-17,-50.0,-21.0,-33.0,-59.0,-41.0,25.0,PHL,,
+154,Philippines,2020-07-18,-48.0,-20.0,-35.0,-57.0,-25.0,19.0,PHL,,
+155,Philippines,2020-07-19,-56.0,-29.0,-37.0,-61.0,-20.0,18.0,PHL,,
+156,Philippines,2020-07-20,-46.0,-19.0,-24.0,-56.0,-40.0,23.0,PHL,,
+157,Philippines,2020-07-21,-48.0,-23.0,-28.0,-57.0,-44.0,23.0,PHL,"['local:I:Domestic travel restrictions', 'local:I:Isolation and quarantine policies']",2.0
+158,Philippines,2020-07-22,-49.0,-22.0,-26.0,-58.0,-43.0,23.0,PHL,,
+159,Philippines,2020-07-23,-50.0,-23.0,-28.0,-59.0,-43.0,24.0,PHL,"['national:P:Domestic travel restrictions', 'national:I:International flights suspension']",2.0
+160,Philippines,2020-07-24,-51.0,-24.0,-32.0,-60.0,-41.0,26.0,PHL,,
+161,Philippines,2020-07-25,-50.0,-23.0,-34.0,-57.0,-27.0,19.0,PHL,,
+162,Philippines,2020-07-26,-56.0,-30.0,-36.0,-61.0,-21.0,18.0,PHL,,
+163,Philippines,2020-07-27,-47.0,-22.0,-24.0,-57.0,-41.0,23.0,PHL,,
+164,Philippines,2020-07-28,-48.0,-22.0,-27.0,-57.0,-44.0,23.0,PHL,,
+165,Philippines,2020-07-29,-51.0,-25.0,-27.0,-59.0,-45.0,24.0,PHL,,
+166,Philippines,2020-07-30,-47.0,-20.0,-27.0,-57.0,-45.0,23.0,PHL,['local:I:Curfews'],1.0
+167,Philippines,2020-07-31,-52.0,-23.0,-35.0,-65.0,-57.0,29.0,PHL,,
+168,Philippines,2020-08-01,-51.0,-24.0,-37.0,-59.0,-30.0,21.0,PHL,,
+169,Philippines,2020-08-02,-55.0,-27.0,-36.0,-60.0,-22.0,18.0,PHL,,
+170,Philippines,2020-08-03,-39.0,-9.0,-19.0,-50.0,-40.0,21.0,PHL,"['local:P:Curfews', 'local:I:Domestic travel restrictions', 'local:I:Limit public gatherings']",3.0
+171,Philippines,2020-08-04,-55.0,-27.0,-27.0,-65.0,-48.0,26.0,PHL,"['national:I:Checkpoints within the country', 'local:I:Partial lockdown']",2.0
+172,Philippines,2020-08-05,-54.0,-27.0,-27.0,-66.0,-47.0,25.0,PHL,,
+173,Philippines,2020-08-06,-55.0,-29.0,-28.0,-66.0,-48.0,26.0,PHL,,
+174,Philippines,2020-08-07,-59.0,-34.0,-34.0,-69.0,-46.0,28.0,PHL,,
+175,Philippines,2020-08-08,-56.0,-29.0,-37.0,-66.0,-31.0,21.0,PHL,,
+176,Philippines,2020-08-09,-65.0,-41.0,-41.0,-69.0,-28.0,21.0,PHL,,
+177,Philippines,2020-08-10,-52.0,-25.0,-24.0,-65.0,-44.0,25.0,PHL,,
+178,Philippines,2020-08-11,-53.0,-27.0,-25.0,-64.0,-47.0,25.0,PHL,,
+179,Philippines,2020-08-12,-54.0,-27.0,-25.0,-66.0,-46.0,25.0,PHL,,
+180,Philippines,2020-08-13,-55.0,-28.0,-27.0,-66.0,-47.0,26.0,PHL,,
+181,Philippines,2020-08-14,-54.0,-26.0,-31.0,-66.0,-44.0,27.0,PHL,,
+182,Philippines,2020-08-15,-54.0,-24.0,-34.0,-64.0,-29.0,21.0,PHL,,
+183,Philippines,2020-08-16,-61.0,-34.0,-37.0,-67.0,-25.0,19.0,PHL,,
+184,Philippines,2020-08-17,-52.0,-24.0,-24.0,-64.0,-43.0,25.0,PHL,,
+185,Philippines,2020-08-18,-54.0,-27.0,-26.0,-63.0,-45.0,25.0,PHL,"['local:I:Isolation and quarantine policies', 'national:I:Isolation and quarantine policies']",2.0
+186,Philippines,2020-08-19,-50.0,-23.0,-24.0,-59.0,-44.0,23.0,PHL,['local:I:Partial lockdown'],1.0
+187,Philippines,2020-08-20,-48.0,-22.0,-25.0,-57.0,-44.0,23.0,PHL,['local:I:Isolation and quarantine policies'],1.0
+188,Philippines,2020-08-21,-53.0,-26.0,-32.0,-65.0,-56.0,29.0,PHL,"['national:I:Domestic travel restrictions', 'local:I:Partial lockdown']",2.0
+189,Philippines,2020-08-22,-51.0,-25.0,-33.0,-60.0,-28.0,20.0,PHL,['national:I:Partial lockdown'],1.0
+190,Philippines,2020-08-23,-56.0,-31.0,-34.0,-61.0,-21.0,18.0,PHL,,
+191,Philippines,2020-08-24,-46.0,-21.0,-21.0,-56.0,-40.0,22.0,PHL,,
+192,Philippines,2020-08-25,-46.0,-20.0,-22.0,-56.0,-43.0,23.0,PHL,,
+193,Philippines,2020-08-26,-48.0,-22.0,-22.0,-57.0,-42.0,23.0,PHL,,
+194,Philippines,2020-08-27,-48.0,-22.0,-23.0,-58.0,-42.0,23.0,PHL,,
+195,Philippines,2020-08-28,-49.0,-23.0,-28.0,-59.0,-41.0,24.0,PHL,,
+196,Philippines,2020-08-29,-47.0,-21.0,-31.0,-55.0,-26.0,18.0,PHL,,
+197,Philippines,2020-08-30,-53.0,-27.0,-32.0,-58.0,-20.0,16.0,PHL,,
+198,Philippines,2020-08-31,-47.0,-22.0,-20.0,-63.0,-58.0,26.0,PHL,,
+199,Philippines,2020-09-01,-44.0,-19.0,-21.0,-54.0,-42.0,21.0,PHL,,
+200,Philippines,2020-09-02,-47.0,-22.0,-22.0,-57.0,-42.0,22.0,PHL,['national:I:Partial lockdown'],1.0
+201,Philippines,2020-09-03,-48.0,-24.0,-24.0,-58.0,-42.0,22.0,PHL,,
+202,Philippines,2020-09-04,-49.0,-24.0,-30.0,-60.0,-40.0,24.0,PHL,,
+203,Philippines,2020-09-05,-47.0,-22.0,-31.0,-57.0,-26.0,18.0,PHL,['local:I:Partial lockdown'],1.0
+204,Philippines,2020-09-06,-53.0,-28.0,-31.0,-58.0,-21.0,17.0,PHL,,
+205,Philippines,2020-09-07,-46.0,-24.0,-22.0,-57.0,-41.0,22.0,PHL,,
+206,Philippines,2020-09-08,-44.0,-19.0,-21.0,-55.0,-43.0,22.0,PHL,['national:I:Partial lockdown'],1.0
+207,Philippines,2020-09-09,-48.0,-24.0,-22.0,-58.0,-43.0,22.0,PHL,['local:I:Partial lockdown'],1.0
+208,Philippines,2020-09-10,-47.0,-23.0,-21.0,-58.0,-42.0,21.0,PHL,['local:I:Partial lockdown'],1.0
+209,Philippines,2020-09-11,-48.0,-23.0,-25.0,-59.0,-40.0,23.0,PHL,,
+210,Philippines,2020-09-12,-46.0,-20.0,-27.0,-55.0,-25.0,17.0,PHL,"['local:I:Domestic travel restrictions', 'local:I:Partial lockdown']",2.0
+211,Philippines,2020-09-13,-50.0,-25.0,-25.0,-57.0,-18.0,15.0,PHL,,
+212,Philippines,2020-09-14,-44.0,-21.0,-18.0,-57.0,-37.0,21.0,PHL,,
+213,Philippines,2020-09-15,-44.0,-18.0,-22.0,-55.0,-41.0,22.0,PHL,,
+214,Philippines,2020-09-16,-44.0,-16.0,-22.0,-55.0,-40.0,22.0,PHL,,
+215,Philippines,2020-09-17,-46.0,-20.0,-22.0,-57.0,-40.0,22.0,PHL,['local:P:Domestic travel restrictions'],1.0
+216,Philippines,2020-09-18,-47.0,-21.0,-27.0,-58.0,-38.0,25.0,PHL,,
+217,Philippines,2020-09-19,-45.0,-20.0,-27.0,-54.0,-24.0,18.0,PHL,,
+218,Philippines,2020-09-20,-49.0,-23.0,-27.0,-56.0,-17.0,16.0,PHL,,
+219,Philippines,2020-09-21,-44.0,-21.0,-20.0,-56.0,-39.0,22.0,PHL,,
+220,Philippines,2020-09-22,-46.0,-21.0,-23.0,-55.0,-41.0,22.0,PHL,,
+221,Philippines,2020-09-23,-50.0,-24.0,-27.0,-57.0,-41.0,23.0,PHL,,
+222,Philippines,2020-09-24,-50.0,-24.0,-29.0,-58.0,-41.0,23.0,PHL,,
+223,Philippines,2020-09-25,-50.0,-23.0,-33.0,-59.0,-39.0,25.0,PHL,['local:P:Limit public gatherings'],1.0
+224,Philippines,2020-09-26,-48.0,-20.0,-31.0,-54.0,-24.0,19.0,PHL,,
+225,Philippines,2020-09-27,-51.0,-24.0,-28.0,-55.0,-18.0,17.0,PHL,,
+226,Philippines,2020-09-28,-46.0,-20.0,-25.0,-55.0,-37.0,23.0,PHL,['national:I:Domestic travel restrictions'],1.0
+227,Philippines,2020-09-29,-47.0,-20.0,-28.0,-55.0,-41.0,23.0,PHL,,
+228,Philippines,2020-09-30,-45.0,-14.0,-27.0,-54.0,-40.0,21.0,PHL,,
+229,Philippines,2020-10-01,-46.0,-15.0,-31.0,-55.0,-40.0,20.0,PHL,,
+230,Philippines,2020-10-02,-48.0,-17.0,-35.0,-56.0,-38.0,22.0,PHL,,
+231,Philippines,2020-10-03,-46.0,-17.0,-35.0,-52.0,-26.0,16.0,PHL,,
+232,Philippines,2020-10-04,-49.0,-19.0,-30.0,-52.0,-20.0,14.0,PHL,,
+233,Philippines,2020-10-05,-45.0,-17.0,-28.0,-54.0,-38.0,19.0,PHL,,
+234,Philippines,2020-10-06,-45.0,-16.0,-30.0,-53.0,-41.0,20.0,PHL,,
+235,Philippines,2020-10-07,-49.0,-21.0,-31.0,-56.0,-40.0,21.0,PHL,,
+236,Philippines,2020-10-08,-49.0,-21.0,-29.0,-56.0,-39.0,22.0,PHL,,
+237,Philippines,2020-10-09,-49.0,-20.0,-33.0,-57.0,-36.0,24.0,PHL,,
+238,Philippines,2020-10-10,-47.0,-19.0,-34.0,-53.0,-22.0,18.0,PHL,['local:I:Complete border closure'],1.0
+239,Philippines,2020-10-11,-54.0,-27.0,-36.0,-57.0,-18.0,17.0,PHL,,
+240,Philippines,2020-10-12,-48.0,-22.0,-29.0,-55.0,-37.0,22.0,PHL,,
+241,Philippines,2020-10-13,-46.0,-18.0,-29.0,-53.0,-39.0,23.0,PHL,['local:I:Partial lockdown'],1.0
+242,Philippines,2020-10-14,-51.0,-25.0,-35.0,-57.0,-40.0,24.0,PHL,,
+243,Philippines,2020-10-15,-45.0,-14.0,-32.0,-53.0,-38.0,23.0,PHL,['national:I:Partial lockdown'],1.0
+244,Philippines,2020-10-16,-45.0,-13.0,-34.0,-53.0,-35.0,24.0,PHL,"['national:P:Isolation and quarantine policies', 'national:I:Partial lockdown']",2.0
+245,Philippines,2020-10-17,-43.0,-12.0,-32.0,-49.0,-22.0,18.0,PHL,,
+246,Philippines,2020-10-18,-47.0,-18.0,-31.0,-52.0,-16.0,16.0,PHL,['national:P:Domestic travel restrictions'],1.0
+247,Philippines,2020-10-19,-44.0,-17.0,-29.0,-53.0,-35.0,22.0,PHL,['national:P:Limit public gatherings'],1.0
+248,Philippines,2020-10-20,-50.0,-26.0,-36.0,-55.0,-41.0,24.0,PHL,,
+249,Philippines,2020-10-21,-46.0,-18.0,-30.0,-56.0,-38.0,22.0,PHL,,
+250,Philippines,2020-10-22,-45.0,-17.0,-26.0,-54.0,-37.0,21.0,PHL,,
+251,Philippines,2020-10-23,-46.0,-18.0,-30.0,-56.0,-35.0,22.0,PHL,,
+252,Philippines,2020-10-24,-43.0,-13.0,-27.0,-51.0,-20.0,16.0,PHL,,
+253,Philippines,2020-10-25,-50.0,-23.0,-31.0,-55.0,-17.0,15.0,PHL,,
+254,Philippines,2020-10-26,-49.0,-25.0,-30.0,-59.0,-42.0,21.0,PHL,,
+255,Philippines,2020-10-27,-42.0,-14.0,-23.0,-51.0,-38.0,19.0,PHL,,
+256,Philippines,2020-10-28,-44.0,-17.0,-25.0,-52.0,-38.0,20.0,PHL,,
+257,Philippines,2020-10-29,-44.0,-17.0,-30.0,-52.0,-39.0,20.0,PHL,,
+258,Philippines,2020-10-30,-43.0,-13.0,-35.0,-53.0,-35.0,21.0,PHL,,
+259,Philippines,2020-10-31,-39.0,-5.0,-33.0,-48.0,-21.0,15.0,PHL,,
+260,Philippines,2020-11-01,-68.0,-40.0,-49.0,-70.0,-34.0,19.0,PHL,,
+261,Philippines,2020-11-02,-48.0,-24.0,-36.0,-65.0,-61.0,26.0,PHL,,
+262,Philippines,2020-11-03,-42.0,-16.0,-31.0,-51.0,-38.0,19.0,PHL,,
+263,Philippines,2020-11-04,-44.0,-19.0,-32.0,-54.0,-38.0,21.0,PHL,"['national:P:Domestic travel restrictions', 'national:I:Partial lockdown']",2.0
+264,Philippines,2020-11-05,-43.0,-16.0,-29.0,-54.0,-37.0,21.0,PHL,,
+265,Philippines,2020-11-06,-44.0,-18.0,-33.0,-56.0,-34.0,22.0,PHL,,
+266,Philippines,2020-11-07,-43.0,-17.0,-33.0,-53.0,-19.0,17.0,PHL,,
+267,Philippines,2020-11-08,-44.0,-17.0,-28.0,-52.0,-13.0,14.0,PHL,,
+268,Philippines,2020-11-09,-41.0,-17.0,-26.0,-53.0,-33.0,20.0,PHL,,
+269,Philippines,2020-11-10,-41.0,-14.0,-28.0,-51.0,-37.0,21.0,PHL,,
+270,Philippines,2020-11-11,-46.0,-22.0,-33.0,-56.0,-38.0,22.0,PHL,['local:I:Limit public gatherings'],1.0
+271,Philippines,2020-11-12,-65.0,-44.0,-36.0,-73.0,-62.0,23.0,PHL,,
+272,Philippines,2020-11-13,-42.0,-13.0,-32.0,-57.0,-39.0,20.0,PHL,,
+273,Philippines,2020-11-14,-37.0,-8.0,-30.0,-48.0,-18.0,14.0,PHL,,
+274,Philippines,2020-11-15,-39.0,-10.0,-26.0,-49.0,-10.0,12.0,PHL,,
+275,Philippines,2020-11-16,-36.0,-9.0,-24.0,-50.0,-33.0,18.0,PHL,,
+276,Philippines,2020-11-17,-37.0,-10.0,-25.0,-49.0,-37.0,19.0,PHL,,
+277,Philippines,2020-11-18,-39.0,-11.0,-25.0,-51.0,-35.0,19.0,PHL,['national:I:Partial lockdown'],1.0
+278,Philippines,2020-11-19,-39.0,-11.0,-25.0,-51.0,-35.0,20.0,PHL,,
+279,Philippines,2020-11-20,-39.0,-11.0,-29.0,-52.0,-32.0,21.0,PHL,['local:I:Isolation and quarantine policies'],1.0
+280,Philippines,2020-11-21,-35.0,-8.0,-26.0,-46.0,-16.0,15.0,PHL,,
+281,Philippines,2020-11-22,-39.0,-11.0,-23.0,-48.0,-10.0,13.0,PHL,,
+282,Philippines,2020-11-23,-38.0,-13.0,-25.0,-51.0,-32.0,19.0,PHL,['national:P:Border closure'],1.0
+283,Philippines,2020-11-24,-38.0,-12.0,-26.0,-49.0,-36.0,20.0,PHL,,
+284,Philippines,2020-11-25,-38.0,-11.0,-24.0,-50.0,-34.0,20.0,PHL,,
+285,Philippines,2020-11-26,-36.0,-9.0,-23.0,-49.0,-34.0,20.0,PHL,,
+286,Philippines,2020-11-27,-37.0,-10.0,-29.0,-50.0,-31.0,21.0,PHL,,
+287,Philippines,2020-11-28,-31.0,-2.0,-23.0,-42.0,-14.0,14.0,PHL,,
+288,Philippines,2020-11-29,-36.0,-7.0,-19.0,-43.0,-9.0,12.0,PHL,,
+289,Philippines,2020-11-30,-31.0,-5.0,-14.0,-53.0,-54.0,23.0,PHL,,
+290,Philippines,2020-12-01,-33.0,-3.0,-19.0,-41.0,-32.0,18.0,PHL,,
+291,Philippines,2020-12-02,-35.0,-6.0,-22.0,-47.0,-32.0,20.0,PHL,,
+292,Philippines,2020-12-03,-35.0,-6.0,-21.0,-46.0,-32.0,19.0,PHL,,
+293,Philippines,2020-12-04,-37.0,-8.0,-26.0,-49.0,-30.0,21.0,PHL,,
+294,Philippines,2020-12-05,-32.0,-4.0,-23.0,-42.0,-12.0,14.0,PHL,,
+295,Philippines,2020-12-06,-36.0,-7.0,-22.0,-44.0,-6.0,12.0,PHL,,
+296,Philippines,2020-12-07,-33.0,-8.0,-20.0,-46.0,-31.0,18.0,PHL,,
+297,Philippines,2020-12-08,-32.0,-5.0,-17.0,-51.0,-50.0,22.0,PHL,,
+298,Philippines,2020-12-09,-36.0,-10.0,-18.0,-47.0,-31.0,19.0,PHL,,
+299,Philippines,2020-12-10,-36.0,-7.0,-14.0,-47.0,-33.0,20.0,PHL,,
+300,Philippines,2020-12-11,-34.0,-2.0,-13.0,-46.0,-28.0,20.0,PHL,,
+301,Philippines,2020-12-12,-29.0,2.0,-12.0,-40.0,-11.0,14.0,PHL,,
+302,Philippines,2020-12-13,-32.0,-1.0,-6.0,-38.0,-3.0,12.0,PHL,,
+303,Philippines,2020-12-14,-31.0,-2.0,-7.0,-44.0,-29.0,18.0,PHL,,
+304,Philippines,2020-12-15,-26.0,6.0,-5.0,-40.0,-31.0,18.0,PHL,,
+305,Philippines,2020-12-16,-26.0,8.0,-3.0,-40.0,-29.0,18.0,PHL,,
+306,Philippines,2020-12-17,-27.0,6.0,-4.0,-40.0,-30.0,18.0,PHL,,
+307,Philippines,2020-12-18,-32.0,0.0,-16.0,-44.0,-28.0,20.0,PHL,,
+308,Philippines,2020-12-19,-28.0,2.0,-18.0,-37.0,-11.0,14.0,PHL,,
+309,Philippines,2020-12-20,-24.0,10.0,-6.0,-30.0,1.0,11.0,PHL,,
+310,Philippines,2020-12-21,-18.0,12.0,2.0,-35.0,-30.0,17.0,PHL,,
+311,Philippines,2020-12-22,-16.0,18.0,3.0,-31.0,-33.0,16.0,PHL,,
+312,Philippines,2020-12-23,-10.0,32.0,8.0,-28.0,-33.0,15.0,PHL,,
+313,Philippines,2020-12-24,-20.0,40.0,11.0,-40.0,-54.0,19.0,PHL,,
+314,Philippines,2020-12-25,-54.0,-33.0,-7.0,-67.0,-66.0,27.0,PHL,,
+315,Philippines,2020-12-26,-37.0,-7.0,-17.0,-48.0,-27.0,17.0,PHL,,
+316,Philippines,2020-12-27,-42.0,-14.0,-17.0,-45.0,-7.0,15.0,PHL,,
+317,Philippines,2020-12-28,-22.0,10.0,1.0,-41.0,-35.0,19.0,PHL,,
+318,Philippines,2020-12-29,-18.0,18.0,2.0,-35.0,-38.0,18.0,PHL,,
+319,Philippines,2020-12-30,-17.0,33.0,7.0,-40.0,-52.0,21.0,PHL,,
+320,Philippines,2020-12-31,-33.0,33.0,1.0,-49.0,-57.0,23.0,PHL,,
+321,Philippines,2021-01-01,-67.0,-53.0,-9.0,-74.0,-70.0,30.0,PHL,,
+322,Philippines,2021-01-02,-43.0,-15.0,-13.0,-53.0,-32.0,19.0,PHL,,
+323,Philippines,2021-01-03,-46.0,-21.0,-16.0,-47.0,-10.0,16.0,PHL,,
+324,Philippines,2021-01-04,-33.0,-3.0,-9.0,-46.0,-29.0,20.0,PHL,,
+325,Philippines,2021-01-05,-34.0,-4.0,-10.0,-45.0,-32.0,20.0,PHL,,
+326,Philippines,2021-01-06,-35.0,-4.0,-11.0,-47.0,-31.0,21.0,PHL,,
+327,Philippines,2021-01-07,-36.0,-6.0,-14.0,-48.0,-32.0,21.0,PHL,,
+328,Philippines,2021-01-08,-36.0,-5.0,-21.0,-49.0,-28.0,22.0,PHL,,
+329,Philippines,2021-01-09,-34.0,-4.0,-22.0,-44.0,-12.0,16.0,PHL,,
+330,Philippines,2021-01-10,-36.0,-6.0,-18.0,-44.0,-4.0,14.0,PHL,,
+331,Philippines,2021-01-11,-34.0,-6.0,-18.0,-46.0,-29.0,20.0,PHL,,
+332,Philippines,2021-01-12,-35.0,-9.0,-22.0,-46.0,-33.0,20.0,PHL,,
+333,Philippines,2021-01-13,-38.0,-11.0,-22.0,-49.0,-33.0,19.0,PHL,,
+334,Philippines,2021-01-14,-39.0,-14.0,-26.0,-51.0,-36.0,18.0,PHL,,
+335,Philippines,2021-01-15,-40.0,-13.0,-31.0,-53.0,-35.0,18.0,PHL,,
+336,Philippines,2021-01-16,-38.0,-12.0,-31.0,-50.0,-23.0,13.0,PHL,,
+337,Philippines,2021-01-17,-41.0,-14.0,-24.0,-49.0,-16.0,11.0,PHL,,
+338,Philippines,2021-01-18,-39.0,-16.0,-28.0,-51.0,-37.0,18.0,PHL,,
+339,Philippines,2021-01-19,-40.0,-17.0,-29.0,-51.0,-39.0,19.0,PHL,,
+340,Philippines,2021-01-20,-43.0,-20.0,-30.0,-53.0,-38.0,19.0,PHL,,
+341,Philippines,2021-01-21,-41.0,-17.0,-30.0,-53.0,-38.0,19.0,PHL,,
+342,Philippines,2021-01-22,-42.0,-16.0,-31.0,-53.0,-35.0,20.0,PHL,,
+343,Philippines,2021-01-23,-39.0,-13.0,-29.0,-50.0,-21.0,14.0,PHL,,
+344,Philippines,2021-01-24,-41.0,-15.0,-20.0,-49.0,-13.0,12.0,PHL,,
+345,Philippines,2021-01-25,-37.0,-12.0,-21.0,-49.0,-34.0,18.0,PHL,,
+346,Philippines,2021-01-26,-39.0,-14.0,-24.0,-49.0,-37.0,19.0,PHL,,
+347,Philippines,2021-01-27,-40.0,-16.0,-26.0,-51.0,-36.0,19.0,PHL,,
+348,Philippines,2021-01-28,-39.0,-13.0,-26.0,-50.0,-36.0,19.0,PHL,,
+349,Philippines,2021-01-29,-36.0,-7.0,-28.0,-50.0,-32.0,19.0,PHL,,
+350,Philippines,2021-01-30,-33.0,-1.0,-24.0,-46.0,-18.0,13.0,PHL,,
+351,Philippines,2021-01-31,-35.0,-1.0,-17.0,-44.0,-9.0,10.0,PHL,,
