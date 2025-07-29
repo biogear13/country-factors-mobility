@@ -60,11 +60,11 @@
 58,Philippines,2020-04-13,-76.0,-53.0,-47.0,-83.0,-71.0,35.0,PHL,{'local_induction': ['Partial lockdown']},0.0,0.0,1.0,0.0
 59,Philippines,2020-04-14,-76.0,-52.0,-48.0,-82.0,-73.0,35.0,PHL,{'national_induction': ['Full lockdown']},1.0,0.0,0.0,0.0
 60,Philippines,2020-04-15,-76.0,-53.0,-48.0,-83.0,-72.0,35.0,PHL,"{'local_induction': ['Curfews', 'Partial lockdown']}",0.0,0.0,2.0,0.0
-61,Philippines,2020-04-16,-77.0,-54.0,-48.0,-84.0,-72.0,36.0,PHL,"{'local_induction': ['Curfews', 'Partial lockdown'], 'national_induction': ['Full lockdown'], 'national_phaseout': ['Border closure']}",1.0,1.0,2.0,0.0
+61,Philippines,2020-04-16,-77.0,-54.0,-48.0,-84.0,-72.0,36.0,PHL,"{'local_induction': ['Curfews', 'Partial lockdown'], 'national_induction': ['Full lockdown'], 'national_phaseout': ['Border closure']}",1.0,0.0,2.0,0.0
 62,Philippines,2020-04-17,-79.0,-56.0,-53.0,-85.0,-71.0,39.0,PHL,{'local_induction': ['Border closure']},0.0,0.0,1.0,0.0
 63,Philippines,2020-04-18,-81.0,-61.0,-60.0,-84.0,-62.0,30.0,PHL,,,,,
 64,Philippines,2020-04-19,-83.0,-66.0,-63.0,-85.0,-54.0,26.0,PHL,,,,,
-65,Philippines,2020-04-20,-78.0,-58.0,-50.0,-84.0,-71.0,35.0,PHL,{'local_phaseout': ['Domestic travel restrictions']},0.0,0.0,0.0,1.0
+65,Philippines,2020-04-20,-78.0,-58.0,-50.0,-84.0,-71.0,35.0,PHL,{'local_phaseout': ['Domestic travel restrictions']},0.0,0.0,0.0,0.0
 66,Philippines,2020-04-21,-79.0,-60.0,-51.0,-84.0,-72.0,35.0,PHL,,,,,
 67,Philippines,2020-04-22,-80.0,-62.0,-51.0,-85.0,-72.0,35.0,PHL,,,,,
 68,Philippines,2020-04-23,-80.0,-62.0,-53.0,-85.0,-72.0,36.0,PHL,"{'local_induction': ['Full lockdown'], 'national_induction': ['Curfews']}",1.0,0.0,1.0,0.0
@@ -75,22 +75,22 @@
 73,Philippines,2020-04-28,-77.0,-58.0,-50.0,-83.0,-71.0,35.0,PHL,{'local_induction': ['Full lockdown']},0.0,0.0,1.0,0.0
 74,Philippines,2020-04-29,-77.0,-57.0,-48.0,-83.0,-70.0,34.0,PHL,{'national_induction': ['Isolation and quarantine policies']},1.0,0.0,0.0,0.0
 75,Philippines,2020-04-30,-82.0,-50.0,-54.0,-79.0,-69.0,34.0,PHL,"{'local_induction': ['Limit public gatherings'], 'national_induction': ['Isolation and quarantine policies']}",1.0,0.0,1.0,0.0
-76,Philippines,2020-05-01,-84.0,-53.0,-59.0,-82.0,-74.0,39.0,PHL,"{'national_induction': ['Limit public gatherings'], 'national_phaseout': ['Border closure', 'Domestic travel restrictions', 'Limit public gatherings', 'Partial lockdown']}",1.0,4.0,0.0,0.0
+76,Philippines,2020-05-01,-84.0,-53.0,-59.0,-82.0,-74.0,39.0,PHL,"{'national_induction': ['Limit public gatherings'], 'national_phaseout': ['Border closure', 'Domestic travel restrictions', 'Limit public gatherings', 'Partial lockdown']}",1.0,0.0,0.0,0.0
 77,Philippines,2020-05-02,-84.0,-53.0,-62.0,-79.0,-58.0,30.0,PHL,,,,,
 78,Philippines,2020-05-03,-87.0,-63.0,-66.0,-81.0,-51.0,26.0,PHL,{'national_induction': ['International flights suspension']},1.0,0.0,0.0,0.0
 79,Philippines,2020-05-04,-81.0,-51.0,-53.0,-78.0,-66.0,33.0,PHL,,,,,
 80,Philippines,2020-05-05,-81.0,-48.0,-53.0,-77.0,-67.0,33.0,PHL,{'national_induction': ['International flights suspension']},1.0,0.0,0.0,0.0
 81,Philippines,2020-05-06,-80.0,-47.0,-52.0,-76.0,-67.0,33.0,PHL,,,,,
-82,Philippines,2020-05-07,-80.0,-47.0,-52.0,-77.0,-67.0,33.0,PHL,{'national_phaseout': ['Limit public gatherings']},0.0,1.0,0.0,0.0
+82,Philippines,2020-05-07,-80.0,-47.0,-52.0,-77.0,-67.0,33.0,PHL,{'national_phaseout': ['Limit public gatherings']},0.0,0.0,0.0,0.0
 83,Philippines,2020-05-08,-80.0,-47.0,-56.0,-78.0,-65.0,36.0,PHL,,,,,
 84,Philippines,2020-05-09,-79.0,-45.0,-59.0,-75.0,-53.0,28.0,PHL,"{'local_induction': ['Full lockdown'], 'national_induction': ['International flights suspension']}",1.0,0.0,1.0,0.0
 85,Philippines,2020-05-10,-81.0,-51.0,-61.0,-76.0,-45.0,24.0,PHL,{'local_induction': ['Domestic travel restrictions']},0.0,0.0,1.0,0.0
 86,Philippines,2020-05-11,-78.0,-45.0,-50.0,-75.0,-63.0,33.0,PHL,{'national_induction': ['Limit public gatherings']},1.0,0.0,0.0,0.0
-87,Philippines,2020-05-12,-78.0,-44.0,-51.0,-75.0,-65.0,33.0,PHL,{'local_phaseout': ['Partial lockdown']},0.0,0.0,0.0,1.0
+87,Philippines,2020-05-12,-78.0,-44.0,-51.0,-75.0,-65.0,33.0,PHL,{'local_phaseout': ['Partial lockdown']},0.0,0.0,0.0,0.0
 88,Philippines,2020-05-13,-78.0,-44.0,-51.0,-76.0,-64.0,33.0,PHL,{'national_induction': ['Domestic travel restrictions']},1.0,0.0,0.0,0.0
 89,Philippines,2020-05-14,-78.0,-44.0,-52.0,-76.0,-65.0,32.0,PHL,"{'national_induction': ['International flights suspension', 'Partial lockdown']}",2.0,0.0,0.0,0.0
-90,Philippines,2020-05-15,-80.0,-50.0,-56.0,-79.0,-64.0,35.0,PHL,{'national_phaseout': ['Limit public gatherings']},0.0,1.0,0.0,0.0
-91,Philippines,2020-05-16,-75.0,-38.0,-58.0,-72.0,-49.0,26.0,PHL,"{'local_induction': ['Partial lockdown'], 'national_phaseout': ['Limit public gatherings']}",0.0,1.0,1.0,0.0
+90,Philippines,2020-05-15,-80.0,-50.0,-56.0,-79.0,-64.0,35.0,PHL,{'national_phaseout': ['Limit public gatherings']},0.0,0.0,0.0,0.0
+91,Philippines,2020-05-16,-75.0,-38.0,-58.0,-72.0,-49.0,26.0,PHL,"{'local_induction': ['Partial lockdown'], 'national_phaseout': ['Limit public gatherings']}",0.0,0.0,1.0,0.0
 92,Philippines,2020-05-17,-79.0,-48.0,-61.0,-74.0,-40.0,23.0,PHL,{'national_induction': ['Domestic travel restrictions']},1.0,0.0,0.0,0.0
 93,Philippines,2020-05-18,-70.0,-33.0,-47.0,-68.0,-55.0,29.0,PHL,,,,,
 94,Philippines,2020-05-19,-71.0,-35.0,-49.0,-69.0,-58.0,29.0,PHL,{'national_induction': ['Domestic travel restrictions']},1.0,0.0,0.0,0.0
@@ -99,18 +99,18 @@
 97,Philippines,2020-05-22,-72.0,-37.0,-54.0,-72.0,-55.0,32.0,PHL,,,,,
 98,Philippines,2020-05-23,-73.0,-38.0,-57.0,-70.0,-42.0,25.0,PHL,,,,,
 99,Philippines,2020-05-24,-78.0,-47.0,-59.0,-73.0,-37.0,23.0,PHL,,,,,
-100,Philippines,2020-05-25,-70.0,-34.0,-47.0,-72.0,-65.0,32.0,PHL,{'national_phaseout': ['Limit public gatherings']},0.0,1.0,0.0,0.0
+100,Philippines,2020-05-25,-70.0,-34.0,-47.0,-72.0,-65.0,32.0,PHL,{'national_phaseout': ['Limit public gatherings']},0.0,0.0,0.0,0.0
 101,Philippines,2020-05-26,-68.0,-33.0,-47.0,-67.0,-54.0,28.0,PHL,{'national_induction': ['Isolation and quarantine policies']},1.0,0.0,0.0,0.0
 102,Philippines,2020-05-27,-69.0,-34.0,-46.0,-68.0,-54.0,28.0,PHL,,,,,
-103,Philippines,2020-05-28,-69.0,-34.0,-48.0,-68.0,-54.0,29.0,PHL,"{'national_induction': ['Checkpoints within the country', 'Curfews'], 'national_phaseout': ['Limit public gatherings']}",2.0,1.0,0.0,0.0
+103,Philippines,2020-05-28,-69.0,-34.0,-48.0,-68.0,-54.0,29.0,PHL,"{'national_induction': ['Checkpoints within the country', 'Curfews'], 'national_phaseout': ['Limit public gatherings']}",2.0,0.0,0.0,0.0
 104,Philippines,2020-05-29,-70.0,-33.0,-52.0,-69.0,-51.0,31.0,PHL,{'national_induction': ['Isolation and quarantine policies']},1.0,0.0,0.0,0.0
-105,Philippines,2020-05-30,-69.0,-32.0,-55.0,-67.0,-36.0,23.0,PHL,{'national_phaseout': ['Domestic travel restrictions']},0.0,1.0,0.0,0.0
+105,Philippines,2020-05-30,-69.0,-32.0,-55.0,-67.0,-36.0,23.0,PHL,{'national_phaseout': ['Domestic travel restrictions']},0.0,0.0,0.0,0.0
 106,Philippines,2020-05-31,-74.0,-40.0,-57.0,-69.0,-30.0,21.0,PHL,{'local_induction': ['Curfews']},0.0,0.0,1.0,0.0
-107,Philippines,2020-06-01,-62.0,-21.0,-43.0,-59.0,-45.0,25.0,PHL,"{'local_phaseout': ['Curfews', 'Full lockdown', 'Limit public gatherings']}",0.0,0.0,0.0,3.0
+107,Philippines,2020-06-01,-62.0,-21.0,-43.0,-59.0,-45.0,25.0,PHL,"{'local_phaseout': ['Curfews', 'Full lockdown', 'Limit public gatherings']}",0.0,0.0,0.0,0.0
 108,Philippines,2020-06-02,-62.0,-22.0,-43.0,-59.0,-48.0,25.0,PHL,,,,,
 109,Philippines,2020-06-03,-62.0,-22.0,-42.0,-59.0,-48.0,25.0,PHL,,,,,
 110,Philippines,2020-06-04,-62.0,-22.0,-43.0,-59.0,-48.0,26.0,PHL,{'national_induction': ['Isolation and quarantine policies']},1.0,0.0,0.0,0.0
-111,Philippines,2020-06-05,-60.0,-24.0,-46.0,-61.0,-46.0,27.0,PHL,{'national_phaseout': ['Domestic travel restrictions']},0.0,1.0,0.0,0.0
+111,Philippines,2020-06-05,-60.0,-24.0,-46.0,-61.0,-46.0,27.0,PHL,{'national_phaseout': ['Domestic travel restrictions']},0.0,0.0,0.0,0.0
 112,Philippines,2020-06-06,-60.0,-23.0,-49.0,-59.0,-31.0,21.0,PHL,,,,,
 113,Philippines,2020-06-07,-65.0,-32.0,-52.0,-62.0,-24.0,20.0,PHL,,,,,
 114,Philippines,2020-06-08,-55.0,-19.0,-39.0,-56.0,-43.0,24.0,PHL,{'national_induction': ['Isolation and quarantine policies']},1.0,0.0,0.0,0.0
@@ -121,7 +121,7 @@
 119,Philippines,2020-06-13,-58.0,-23.0,-49.0,-58.0,-30.0,21.0,PHL,,,,,
 120,Philippines,2020-06-14,-63.0,-31.0,-50.0,-60.0,-21.0,19.0,PHL,,,,,
 121,Philippines,2020-06-15,-51.0,-17.0,-37.0,-54.0,-41.0,23.0,PHL,{'local_induction': ['Domestic travel restrictions']},0.0,0.0,1.0,0.0
-122,Philippines,2020-06-16,-51.0,-14.0,-36.0,-53.0,-44.0,23.0,PHL,"{'local_induction': ['Partial lockdown'], 'local_phaseout': ['Partial lockdown'], 'national_induction': ['Domestic travel restrictions']}",1.0,0.0,1.0,1.0
+122,Philippines,2020-06-16,-51.0,-14.0,-36.0,-53.0,-44.0,23.0,PHL,"{'local_induction': ['Partial lockdown'], 'local_phaseout': ['Partial lockdown'], 'national_induction': ['Domestic travel restrictions']}",1.0,0.0,1.0,0.0
 123,Philippines,2020-06-17,-53.0,-18.0,-37.0,-55.0,-44.0,24.0,PHL,,,,,
 124,Philippines,2020-06-18,-53.0,-26.0,-29.0,-59.0,-45.0,24.0,PHL,,,,,
 125,Philippines,2020-06-19,-56.0,-29.0,-36.0,-62.0,-44.0,27.0,PHL,,,,,
@@ -131,7 +131,7 @@
 129,Philippines,2020-06-23,-50.0,-23.0,-26.0,-55.0,-45.0,24.0,PHL,,,,,
 130,Philippines,2020-06-24,-52.0,-25.0,-25.0,-58.0,-45.0,24.0,PHL,,,,,
 131,Philippines,2020-06-25,-51.0,-24.0,-29.0,-57.0,-44.0,24.0,PHL,,,,,
-132,Philippines,2020-06-26,-53.0,-25.0,-34.0,-59.0,-42.0,25.0,PHL,"{'national_induction': ['Border closure'], 'national_phaseout': ['Limit public gatherings']}",1.0,1.0,0.0,0.0
+132,Philippines,2020-06-26,-53.0,-25.0,-34.0,-59.0,-42.0,25.0,PHL,"{'national_induction': ['Border closure'], 'national_phaseout': ['Limit public gatherings']}",1.0,0.0,0.0,0.0
 133,Philippines,2020-06-27,-53.0,-25.0,-38.0,-57.0,-28.0,20.0,PHL,,,,,
 134,Philippines,2020-06-28,-61.0,-36.0,-42.0,-62.0,-21.0,18.0,PHL,,,,,
 135,Philippines,2020-06-29,-48.0,-22.0,-26.0,-55.0,-41.0,22.0,PHL,{'local_induction': ['Isolation and quarantine policies']},0.0,0.0,1.0,0.0
@@ -142,10 +142,10 @@
 140,Philippines,2020-07-04,-52.0,-26.0,-38.0,-59.0,-27.0,20.0,PHL,,,,,
 141,Philippines,2020-07-05,-57.0,-30.0,-38.0,-62.0,-20.0,18.0,PHL,,,,,
 142,Philippines,2020-07-06,-47.0,-22.0,-26.0,-56.0,-41.0,23.0,PHL,,,,,
-143,Philippines,2020-07-07,-47.0,-20.0,-26.0,-56.0,-44.0,23.0,PHL,"{'national_phaseout': ['Border closure', 'Domestic travel restrictions', 'International flights suspension']}",0.0,3.0,0.0,0.0
+143,Philippines,2020-07-07,-47.0,-20.0,-26.0,-56.0,-44.0,23.0,PHL,"{'national_phaseout': ['Border closure', 'Domestic travel restrictions', 'International flights suspension']}",0.0,0.0,0.0,0.0
 144,Philippines,2020-07-08,-49.0,-23.0,-27.0,-58.0,-43.0,23.0,PHL,{'local_induction': ['Limit public gatherings']},0.0,0.0,1.0,0.0
 145,Philippines,2020-07-09,-50.0,-25.0,-27.0,-58.0,-44.0,23.0,PHL,,,,,
-146,Philippines,2020-07-10,-51.0,-24.0,-34.0,-59.0,-42.0,25.0,PHL,"{'local_induction': ['Isolation and quarantine policies'], 'national_induction': ['Domestic travel restrictions', 'Health screenings in airports and border crossings'], 'national_phaseout': ['Limit public gatherings']}",2.0,1.0,1.0,0.0
+146,Philippines,2020-07-10,-51.0,-24.0,-34.0,-59.0,-42.0,25.0,PHL,"{'local_induction': ['Isolation and quarantine policies'], 'national_induction': ['Domestic travel restrictions', 'Health screenings in airports and border crossings'], 'national_phaseout': ['Limit public gatherings']}",2.0,0.0,1.0,0.0
 147,Philippines,2020-07-11,-50.0,-18.0,-35.0,-57.0,-26.0,19.0,PHL,,,,,
 148,Philippines,2020-07-12,-56.0,-29.0,-36.0,-61.0,-19.0,18.0,PHL,{'national_induction': ['Isolation and quarantine policies']},1.0,0.0,0.0,0.0
 149,Philippines,2020-07-13,-50.0,-26.0,-28.0,-58.0,-41.0,24.0,PHL,,,,,
@@ -158,7 +158,7 @@
 156,Philippines,2020-07-20,-46.0,-19.0,-24.0,-56.0,-40.0,23.0,PHL,,,,,
 157,Philippines,2020-07-21,-48.0,-23.0,-28.0,-57.0,-44.0,23.0,PHL,"{'local_induction': ['Domestic travel restrictions', 'Isolation and quarantine policies']}",0.0,0.0,2.0,0.0
 158,Philippines,2020-07-22,-49.0,-22.0,-26.0,-58.0,-43.0,23.0,PHL,,,,,
-159,Philippines,2020-07-23,-50.0,-23.0,-28.0,-59.0,-43.0,24.0,PHL,"{'national_induction': ['International flights suspension'], 'national_phaseout': ['Domestic travel restrictions']}",1.0,1.0,0.0,0.0
+159,Philippines,2020-07-23,-50.0,-23.0,-28.0,-59.0,-43.0,24.0,PHL,"{'national_induction': ['International flights suspension'], 'national_phaseout': ['Domestic travel restrictions']}",1.0,0.0,0.0,0.0
 160,Philippines,2020-07-24,-51.0,-24.0,-32.0,-60.0,-41.0,26.0,PHL,,,,,
 161,Philippines,2020-07-25,-50.0,-23.0,-34.0,-57.0,-27.0,19.0,PHL,,,,,
 162,Philippines,2020-07-26,-56.0,-30.0,-36.0,-61.0,-21.0,18.0,PHL,,,,,
@@ -169,7 +169,7 @@
 167,Philippines,2020-07-31,-52.0,-23.0,-35.0,-65.0,-57.0,29.0,PHL,,,,,
 168,Philippines,2020-08-01,-51.0,-24.0,-37.0,-59.0,-30.0,21.0,PHL,,,,,
 169,Philippines,2020-08-02,-55.0,-27.0,-36.0,-60.0,-22.0,18.0,PHL,,,,,
-170,Philippines,2020-08-03,-39.0,-9.0,-19.0,-50.0,-40.0,21.0,PHL,"{'local_induction': ['Domestic travel restrictions', 'Limit public gatherings'], 'local_phaseout': ['Curfews']}",0.0,0.0,2.0,1.0
+170,Philippines,2020-08-03,-39.0,-9.0,-19.0,-50.0,-40.0,21.0,PHL,"{'local_induction': ['Domestic travel restrictions', 'Limit public gatherings'], 'local_phaseout': ['Curfews']}",0.0,0.0,2.0,0.0
 171,Philippines,2020-08-04,-55.0,-27.0,-27.0,-65.0,-48.0,26.0,PHL,"{'local_induction': ['Partial lockdown'], 'national_induction': ['Checkpoints within the country']}",1.0,0.0,1.0,0.0
 172,Philippines,2020-08-05,-54.0,-27.0,-27.0,-66.0,-47.0,25.0,PHL,,,,,
 173,Philippines,2020-08-06,-55.0,-29.0,-28.0,-66.0,-48.0,26.0,PHL,,,,,
@@ -214,7 +214,7 @@
 212,Philippines,2020-09-14,-44.0,-21.0,-18.0,-57.0,-37.0,21.0,PHL,,,,,
 213,Philippines,2020-09-15,-44.0,-18.0,-22.0,-55.0,-41.0,22.0,PHL,,,,,
 214,Philippines,2020-09-16,-44.0,-16.0,-22.0,-55.0,-40.0,22.0,PHL,,,,,
-215,Philippines,2020-09-17,-46.0,-20.0,-22.0,-57.0,-40.0,22.0,PHL,{'local_phaseout': ['Domestic travel restrictions']},0.0,0.0,0.0,1.0
+215,Philippines,2020-09-17,-46.0,-20.0,-22.0,-57.0,-40.0,22.0,PHL,{'local_phaseout': ['Domestic travel restrictions']},0.0,0.0,0.0,0.0
 216,Philippines,2020-09-18,-47.0,-21.0,-27.0,-58.0,-38.0,25.0,PHL,,,,,
 217,Philippines,2020-09-19,-45.0,-20.0,-27.0,-54.0,-24.0,18.0,PHL,,,,,
 218,Philippines,2020-09-20,-49.0,-23.0,-27.0,-56.0,-17.0,16.0,PHL,,,,,
@@ -222,7 +222,7 @@
 220,Philippines,2020-09-22,-46.0,-21.0,-23.0,-55.0,-41.0,22.0,PHL,,,,,
 221,Philippines,2020-09-23,-50.0,-24.0,-27.0,-57.0,-41.0,23.0,PHL,,,,,
 222,Philippines,2020-09-24,-50.0,-24.0,-29.0,-58.0,-41.0,23.0,PHL,,,,,
-223,Philippines,2020-09-25,-50.0,-23.0,-33.0,-59.0,-39.0,25.0,PHL,{'local_phaseout': ['Limit public gatherings']},0.0,0.0,0.0,1.0
+223,Philippines,2020-09-25,-50.0,-23.0,-33.0,-59.0,-39.0,25.0,PHL,{'local_phaseout': ['Limit public gatherings']},0.0,0.0,0.0,0.0
 224,Philippines,2020-09-26,-48.0,-20.0,-31.0,-54.0,-24.0,19.0,PHL,,,,,
 225,Philippines,2020-09-27,-51.0,-24.0,-28.0,-55.0,-18.0,17.0,PHL,,,,,
 226,Philippines,2020-09-28,-46.0,-20.0,-25.0,-55.0,-37.0,23.0,PHL,{'national_induction': ['Domestic travel restrictions']},1.0,0.0,0.0,0.0
@@ -243,10 +243,10 @@
 241,Philippines,2020-10-13,-46.0,-18.0,-29.0,-53.0,-39.0,23.0,PHL,{'local_induction': ['Partial lockdown']},0.0,0.0,1.0,0.0
 242,Philippines,2020-10-14,-51.0,-25.0,-35.0,-57.0,-40.0,24.0,PHL,,,,,
 243,Philippines,2020-10-15,-45.0,-14.0,-32.0,-53.0,-38.0,23.0,PHL,{'national_induction': ['Partial lockdown']},1.0,0.0,0.0,0.0
-244,Philippines,2020-10-16,-45.0,-13.0,-34.0,-53.0,-35.0,24.0,PHL,"{'national_induction': ['Partial lockdown'], 'national_phaseout': ['Isolation and quarantine policies']}",1.0,1.0,0.0,0.0
+244,Philippines,2020-10-16,-45.0,-13.0,-34.0,-53.0,-35.0,24.0,PHL,"{'national_induction': ['Partial lockdown'], 'national_phaseout': ['Isolation and quarantine policies']}",1.0,0.0,0.0,0.0
 245,Philippines,2020-10-17,-43.0,-12.0,-32.0,-49.0,-22.0,18.0,PHL,,,,,
-246,Philippines,2020-10-18,-47.0,-18.0,-31.0,-52.0,-16.0,16.0,PHL,{'national_phaseout': ['Domestic travel restrictions']},0.0,1.0,0.0,0.0
-247,Philippines,2020-10-19,-44.0,-17.0,-29.0,-53.0,-35.0,22.0,PHL,{'national_phaseout': ['Limit public gatherings']},0.0,1.0,0.0,0.0
+246,Philippines,2020-10-18,-47.0,-18.0,-31.0,-52.0,-16.0,16.0,PHL,{'national_phaseout': ['Domestic travel restrictions']},0.0,0.0,0.0,0.0
+247,Philippines,2020-10-19,-44.0,-17.0,-29.0,-53.0,-35.0,22.0,PHL,{'national_phaseout': ['Limit public gatherings']},0.0,0.0,0.0,0.0
 248,Philippines,2020-10-20,-50.0,-26.0,-36.0,-55.0,-41.0,24.0,PHL,,,,,
 249,Philippines,2020-10-21,-46.0,-18.0,-30.0,-56.0,-38.0,22.0,PHL,,,,,
 250,Philippines,2020-10-22,-45.0,-17.0,-26.0,-54.0,-37.0,21.0,PHL,,,,,
@@ -262,7 +262,7 @@
 260,Philippines,2020-11-01,-68.0,-40.0,-49.0,-70.0,-34.0,19.0,PHL,,,,,
 261,Philippines,2020-11-02,-48.0,-24.0,-36.0,-65.0,-61.0,26.0,PHL,,,,,
 262,Philippines,2020-11-03,-42.0,-16.0,-31.0,-51.0,-38.0,19.0,PHL,,,,,
-263,Philippines,2020-11-04,-44.0,-19.0,-32.0,-54.0,-38.0,21.0,PHL,"{'national_induction': ['Partial lockdown'], 'national_phaseout': ['Domestic travel restrictions']}",1.0,1.0,0.0,0.0
+263,Philippines,2020-11-04,-44.0,-19.0,-32.0,-54.0,-38.0,21.0,PHL,"{'national_induction': ['Partial lockdown'], 'national_phaseout': ['Domestic travel restrictions']}",1.0,0.0,0.0,0.0
 264,Philippines,2020-11-05,-43.0,-16.0,-29.0,-54.0,-37.0,21.0,PHL,,,,,
 265,Philippines,2020-11-06,-44.0,-18.0,-33.0,-56.0,-34.0,22.0,PHL,,,,,
 266,Philippines,2020-11-07,-43.0,-17.0,-33.0,-53.0,-19.0,17.0,PHL,,,,,
@@ -281,7 +281,7 @@
 279,Philippines,2020-11-20,-39.0,-11.0,-29.0,-52.0,-32.0,21.0,PHL,{'local_induction': ['Isolation and quarantine policies']},0.0,0.0,1.0,0.0
 280,Philippines,2020-11-21,-35.0,-8.0,-26.0,-46.0,-16.0,15.0,PHL,,,,,
 281,Philippines,2020-11-22,-39.0,-11.0,-23.0,-48.0,-10.0,13.0,PHL,,,,,
-282,Philippines,2020-11-23,-38.0,-13.0,-25.0,-51.0,-32.0,19.0,PHL,{'national_phaseout': ['Border closure']},0.0,1.0,0.0,0.0
+282,Philippines,2020-11-23,-38.0,-13.0,-25.0,-51.0,-32.0,19.0,PHL,{'national_phaseout': ['Border closure']},0.0,0.0,0.0,0.0
 283,Philippines,2020-11-24,-38.0,-12.0,-26.0,-49.0,-36.0,20.0,PHL,,,,,
 284,Philippines,2020-11-25,-38.0,-11.0,-24.0,-50.0,-34.0,20.0,PHL,,,,,
 285,Philippines,2020-11-26,-36.0,-9.0,-23.0,-49.0,-34.0,20.0,PHL,,,,,
