@@ -8,7 +8,7 @@
 - Oxford Government Response Tracker https://github.com/OxCGRT/covid-policy-dataset/blob/main/data/OxCGRT_compact_national_v1.csv
 - Political regime https://ourworldindata.org/grapher/political-regime?time=2019 from V-Dem project
 - Corruption perseption index https://images.transparencycdn.org/images/CPI2019-1.xlsx
-- GDP per capita https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database?time=2019
+- GDP per capita https://ourworldindata.org/grapher/gdp-per-capita-worldbank
 - Gini coefficient https://ourworldindata.org/grapher/economic-inequality-gini-index?time=2019
 - Hospital beds per 1000 people https://ourworldindata.org/grapher/hospital-beds-per-1000-people?time=2019
 - Population density https://ourworldindata.org/grapher/population-density?time=2019
