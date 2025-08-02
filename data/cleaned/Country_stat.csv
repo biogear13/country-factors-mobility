@@ -1,209 +1,112 @@
-Country,Code,urban_population,corruption_perception_index,gdp_per_capita,land_boundaries,coastline,num_border_countries,border_countries,hospital_beds_per_1000,unemployment,political_regime,gini_index,population_density,poverty,median_age,land_area_sqkm
-Afghanistan,AFG,25.754,16.0,2031.7373,5987.0,0.0,6.0,"China 91 km; Iran 921 km; Pakistan 2,670 km; Tajikistan 1,357 km; Turkmenistan 804 km; Uzbekistan 144 km ",0.38,11.185,electoral_autocracies,,58.04107,,16.234,652230.0
-Angola,AGO,66.177,26.0,6886.954,5369.0,1600.0,4.0,"Democratic Republic of the Congo 2,646 km (of which 225 km is the boundary of discontiguous Cabinda Province); Republic of the Congo 231 km; Namibia 1,427 km; Zambia 1,065 km ",0.75,16.497,electoral_autocracies,0.51263994,25.969065,31.122005,16.302,1246700.0
-Albania,ALB,61.229,35.0,11715.307,691.0,362.0,4.0,Greece 212 km; Kosovo 112 km; North Macedonia 181 km; Montenegro 186 km ,2.85,11.466,electoral_democracies,0.30115768,105.29241,0.0,34.708,27400.0
-Andorra,AND,87.984,,,118.0,0.0,2.0,France 55 km; Spain 63 km ,,,,,162.74681,,41.731,470.0
-United Arab Emirates,ARE,86.789,71.0,74396.14,1066.0,1318.0,2.0,Oman 609 km; Saudi Arabia 457 km,1.87,2.331,closed_autocracies,0.26399004,132.04527,0.0,30.834,71020.0
-Argentina,ARG,91.991,45.0,17912.637,11968.0,4989.0,5.0,"Bolivia 942 km; Brazil 1,263 km; Chile 6,691 km; Paraguay 2,531 km; Uruguay 541 km ",3.71,9.843,electoral_democracies,,16.433529,,30.763,2736690.0
-Armenia,ARM,63.219,42.0,12399.231,1570.0,0.0,4.0,Azerbaijan 996 km; Georgia 219 km; Iran 44 km; Turkey 311 km,4.18,18.304,electoral_democracies,0.30031213,102.00123,1.0300698,34.525,28470.0
-Antigua and Barbuda,ATG,24.506,,,0.0,153.0,0.0,,3.29,,,,207.675,,33.83,440.0
-Australia,AUS,86.124,77.0,49814.67,0.0,25760.0,0.0,,3.84,5.159,liberal_democracies,0.34332561,3.312877,0.49709398,36.543,7692020.0
-Austria,AUT,58.515,77.0,43488.668,2524.0,0.0,8.0,Czech Republic 402 km; Germany 801 km; Hungary 321 km; Italy 404 km; Liechtenstein 34 km; Slovakia 105 km; Slovenia 299 km; Switzerland 158 km ,7.19,4.56,liberal_democracies,0.3021043,107.62088,0.6406389,42.433,82520.0
-Azerbaijan,AZE,56.031,30.0,17029.906,2468.0,0.0,5.0,Armenia 996 km; Georgia 428 km; Iran 689 km; Russia 338 km; Turkey 17 km ,3.9,5.0,electoral_autocracies,,122.328926,,30.699,82650.0
-Burundi,BDI,13.366,19.0,738.9831,1140.0,0.0,3.0,Democratic Republic of the Congo 236 km; Rwanda 315 km; Tanzania 589 km,0.71,1.043,electoral_autocracies,0.37456092,477.23282,62.06576,15.194,25680.0
-Belgium,BEL,98.041,75.0,41155.527,1297.0,66.5,4.0,France 556 km; Germany 133 km; Luxembourg 130 km; Netherlands 478 km,5.56,5.364,liberal_democracies,0.27219546,379.47894,0.07855247,40.735,30494.0
-Benin,BEN,47.861,41.0,2276.1038,2123.0,121.0,4.0,Burkina Faso 386 km; Niger 277 km; Nigeria 809 km; Togo 651 km ,0.42,1.214,electoral_autocracies,0.37948644,112.86592,20.082186,17.331,112760.0
-Burkina Faso,BFA,29.98,40.0,1651.1173,3611.0,0.0,6.0,Benin 386 km; Cote d'Ivoire 545 km; Ghana 602 km; Mali 1325 km; Niger 622 km; Togo 131 km,0.2,4.71,electoral_democracies,0.43016732,76.615326,31.203825,16.444,273600.0
-Bangladesh,BGD,37.405,26.0,4242.7515,4413.0,580.0,2.0,"Burma 271 km; India 4,142 km ",0.88,4.441,electoral_autocracies,0.33373156,1266.9053,5.008496,24.38,130170.0
-Bulgaria,BGR,75.347,43.0,18840.764,1806.0,354.0,5.0,Greece 472 km; Macedonia 162 km; Romania 605 km; Serbia 344 km; Turkey 223 km,7.66,4.23,electoral_democracies,0.40271127,64.254486,0.9236337,43.628,108560.0
-Bahrain,BHR,89.394,42.0,39499.707,0.0,161.0,0.0,,1.74,1.223,closed_autocracies,,1880.6013,,31.21,790.0
-Bahamas,BHS,83.132,64.0,,0.0,3542.0,0.0,,2.7,9.336,,,39.42897,,33.247,10010.0
-Bosnia and Herzegovina,BIH,48.626,36.0,11048.235,1543.0,20.0,3.0,Croatia 956 km; Montenegro 242 km; Serbia 345 km,2.34,15.692,electoral_democracies,,65.34246,,43.292,51200.0
-Belarus,BLR,79.044,45.0,19130.395,3599.0,0.0,5.0,"Latvia 161 km; Lithuania 640 km; Poland 375 km; Russia 1,312 km; Ukraine 1,111 km",9.69,4.165,electoral_autocracies,0.25277847,46.49132,0.0,39.288,202990.0
-Belize,BLZ,45.866,,,542.0,386.0,2.0,Guatemala 266 km; Mexico 276 km ,1.03,9.053,,,16.915081,,24.273,22810.0
-Bolivia,BOL,69.773,31.0,6730.809,7252.0,0.0,5.0,"Argentina 942 km; Brazil 3,403 km; Chile 942 km; Paraguay 753 km; Peru 1,212 km",1.26,3.682,closed_autocracies,0.416443,10.773918,1.9205352,23.8,1083300.0
-Brazil,BRA,86.824,35.0,14257.871,16145.0,7491.0,10.0,"Argentina 1,263 km; Bolivia 3,403 km; Colombia 1,790 km; French Guiana 649 km; Guyana 1,308 km; Paraguay 1,371 km; Peru 2,659 km; Suriname 515 km; Uruguay 1,050 km; Venezuela 2,137 km",2.24,11.936,electoral_democracies,0.5350931,24.820768,5.4092226,32.256,8358140.0
-Barbados,BRB,31.158,62.0,12040.277,0.0,97.0,0.0,,5.74,8.412,liberal_democracies,,653.9907,,37.921,430.0
-Brunei Darussalam,BRN,77.942,60.0,,266.0,161.0,1.0,Malaysia 266 km,3.7,6.6,,,84.00133,,29.96,5270.0
-Bhutan,BTN,41.612,68.0,,1136.0,0.0,2.0,China 477 km; India 659 km,2.08,2.72,electoral_democracies,0.3744141,20.053198,0.94576234,27.055,38140.0
-Botswana,BWA,70.172,61.0,15747.324,4347.15,0.0,4.0,"Namibia 1,544 km; South Africa 1,969 km; Zambia 0.15 km; Zimbabwe 834 km",2.3,20.094,liberal_democracies,0.5332503,4.1149774,15.426243,22.105,566730.0
-Central African Republic,CAF,41.77,25.0,623.5598,5920.0,0.0,5.0,"Cameroon 901 km; Chad 1556 km; Democratic Republic of the Congo 1,747 km, Republic of the Congo 487 km; South Sudan 1055 km; Sudan 174 km",,5.607,electoral_autocracies,0.43027893,7.9371843,65.66651,14.368,622980.0
-Canada,CAN,81.482,77.0,45284.215,8892.0,202080.0,2.0,"US 8,891 km (includes 2,475 km with Alaska); Denmark (Greenland) 1.3 km",2.53,5.69,liberal_democracies,0.31749648,4.299035,0.24863754,39.788,8788700.0
-Switzerland,CHE,73.849,85.0,62448.598,1770.0,0.0,5.0,Austria 158 km; France 525 km; Italy 698 km; Liechtenstein 41 km; Germany 348 km,4.59,4.394,liberal_democracies,0.3399834,217.09964,0.017386846,41.582,39509.63
-Chile,CHL,87.643,67.0,21924.408,7801.0,6435.0,3.0,"Argentina 6,691 km; Bolivia 942 km; Peru 168 km",2.04,7.493,electoral_democracies,0.4700476,25.819664,1.3415734,34.328,743532.0
-China,CHN,60.308,41.0,16879.54,22457.0,14500.0,14.0,"Afghanistan 91 km; Bhutan 477 km; Burma 2,129 km; India 2,659 km; Kazakhstan 1,765 km; North Korea 1,352 km; Kyrgyzstan 1,063 km; Laos 475 km; Mongolia 4,630 km; Nepal 1,389 km; Pakistan 438 km; Russia (northeast) 4,133 km and Russia (northwest) 46 km; Tajikistan 477 km; Vietnam 1,297 km",4.83,4.56,closed_autocracies,0.38168344,151.62851,0.0,37.026,9388210.0
-Cote d'Ivoire,CIV,51.239,35.0,3703.0876,3458.0,515.0,5.0,Burkina Faso 545 km; Ghana 720 km; Guinea 816 km; Liberia 778 km; Mali 599 km,,2.401,electoral_democracies,0.37168875,88.65728,11.502216,17.817,318000.0
-Cameroon,CMR,56.968,25.0,2832.0767,5018.0,402.0,6.0,"Central African Republic 901 km; Chad 1,116 km; Republic of the Congo 494 km; Equatorial Guinea 183 km; Gabon 349 km; Nigeria 1975 km",2.65,3.622,electoral_autocracies,0.42176074,53.957176,22.99222,17.374,472710.0
-"Congo, The Democratic Republic of ",COD,45.046,18.0,806.479,11027.0,37.0,9.0,"Angola 2,646 km (of which 225 km is the boundary of Angola's discontiguous Cabinda Province); Burundi 236 km; Central African Republic 1,747 km; Republic of the Congo 1,775 km; Rwanda 221 km; South Sudan 714 km; Tanzania 479 km; Uganda 877 km; Zambia 2,332 km",,4.591,electoral_autocracies,0.44674513,40.9993,78.94202,15.844,2267050.0
-Congo,COG,67.373,19.0,4583.337,5554.0,169.0,5.0,"Angola 231 km; Cameroon 494 km; Central African Republic 487 km; Democratic Republic of the Congo 1,775 km; Gabon 2,567 km",,20.392,electoral_autocracies,,16.447016,,18.051,341500.0
-Colombia,COL,81.104,37.0,13603.993,6672.0,3208.0,5.0,"Brazil 1,790 km; Ecuador 708 km; Panama 339 km; Peru 1,494 km; Venezuela 2,341 km",1.74,10.28,electoral_democracies,0.5132595,44.982414,5.2847376,30.084,1109500.0
-Comoros,COM,29.164,25.0,1832.4357,0.0,340.0,0.0,,,3.934,electoral_autocracies,0.45332918,422.66684,18.643723,19.457,1861.0
-Cape Verde,CPV,66.195,58.0,7297.2793,0.0,965.0,0.0,,1.97,12.128,electoral_democracies,0.42381087,127.57221,4.5642314,26.018,4030.0
-Costa Rica,CRI,80.076,56.0,14775.292,661.0,1290.0,2.0,Nicaragua 313 km; Panama 348 km,1.09,10.807,liberal_democracies,0.4818988,97.915215,1.0571395,32.014,51060.0
-Cuba,CUB,77.109,48.0,8257.785,28.5,3735.0,0.0,,4.17,1.705,closed_autocracies,,107.92724,,41.096,103800.0
-Cyprus,CYP,66.805,58.0,30284.795,156.0,648.0,0.0,,2.24,7.155,liberal_democracies,0.3122325,139.2499,0.1538318,36.12,9240.0
-Czechia,CZE,73.921,56.0,32226.553,2046.0,0.0,4.0,Austria 402 km; Germany 704 km; Poland 699 km; Slovakia 241 km,6.66,2.015,liberal_democracies,0.25262198,136.74446,0.0,41.963,77171.73
-Germany,DEU,77.376,80.0,46761.945,3694.0,2389.0,9.0,Austria 801 km; Belgium 133 km; Czechia 704 km; Denmark 140 km; France 418 km; Luxembourg 128 km; Netherlands 575 km; Poland 447 km; Switzerland 348 km,7.91,3.163,liberal_democracies,0.31780925,239.15735,0.24957946,44.904,349360.0
-Djibouti,DJI,77.915,30.0,3436.9502,528.0,314.0,3.0,Eritrea 125 km; Ethiopia 342 km; Somalia 61 km,1.42,26.256,electoral_autocracies,0.41585726,46.96756,19.079206,23.213,23180.0
-Dominica,DMA,70.786,55.0,9575.093,0.0,148.0,0.0,,3.02,,,,90.53467,,33.969,750.0
-Denmark,DNK,87.994,87.0,48238.656,141.0,7314.0,2.0,Germany 140 km; Canada 1.3 km,2.6,5.018,liberal_democracies,0.27723306,145.36548,0.25140718,40.993,40000.0
-Dominican Republic,DOM,81.828,28.0,16587.236,376.0,1288.0,1.0,Haiti 376 km,1.25,6.356,electoral_democracies,0.41917086,229.19868,0.83268654,26.388,48198.02
-Algeria,DZA,73.189,35.0,14000.279,6734.0,998.0,6.0,"Libya 989 km; Mali 1,359 km; Mauritania 460 km; Morocco 1,941 km; Niger 951 km; Tunisia 1,034 km ",1.63,12.259,electoral_autocracies,,18.17769,,27.431,2381741.0
-Ecuador,ECU,63.986,38.0,10586.937,2237.0,2237.0,2.0,Colombia 708 km; Peru 1529 km,1.39,3.812,electoral_democracies,0.45709932,69.81808,3.5835843,26.856,248360.0
-Egypt,EGY,42.73,35.0,12300.201,2612.0,2450.0,4.0,"Gaza Strip 13 km; Israel 208 km; Libya 1,115 km; Sudan 1,276 km",1.22,7.851,electoral_autocracies,0.31893092,108.04476,1.4670148,23.328,995450.0
-Eritrea,ERI,40.712,23.0,,1840.0,2234.0,3.0,"Djibouti 125 km; Ethiopia 1,033 km; Sudan 682 km",1.01,5.552,closed_autocracies,,26.769438,,17.78,121040.83
-Western Sahara,ESH,,,,,,,,,,,,2.0242558,,30.562,
-Spain,ESP,80.565,62.0,34957.465,1952.7,4964.0,5.0,"Andorra 63 km; France 646 km; Gibraltar 1.2 km; Portugal 1,224 km; Morocco (Ceuta) 8 km and Morocco (Melilla) 10.5 km",2.95,14.104,liberal_democracies,0.34303716,94.92088,0.79381347,43.138,499713.7
-Estonia,EST,69.051,74.0,28505.604,657.0,3794.0,2.0,Latvia 333 km; Russia 324 km,4.53,4.514,liberal_democracies,0.30765438,31.036749,0.5569404,41.213,42730.0
-Ethiopia,ETH,21.225,37.0,2030.6775,5925.0,0.0,6.0,"Djibouti 342 km; Eritrea 1,033 km; Kenya 867 km; Somalia 1,640 km; South Sudan 1,299 km; Sudan 744 km",0.33,2.917,electoral_autocracies,0.34993124,102.55213,26.984606,17.926,1128571.4
-Finland,FIN,85.446,86.0,39874.8,2563.0,1250.0,3.0,"Norway 709 km; Sweden 545 km; Russia 1,309 km",3.35,6.695,liberal_democracies,0.27737123,18.166794,0.03882923,41.974,303947.7
-Fiji,FJI,56.75,,,0.0,1129.0,0.0,,1.89,4.373,electoral_autocracies,0.30706868,50.076847,1.3182689,26.776,18270.0
-France,FRA,80.709,69.0,39084.656,3956.0,4853.0,8.0,Andorra 55 km; Belgium 556 km; Germany 418 km; Italy 476 km; Luxembourg 69 km; Monaco 6 km; Spain 646 km; Switzerland 525 km,6.1,8.415,liberal_democracies,0.31199563,120.04131,0.051448993,41.08,547557.0
-"Micronesia, Federated States of",FSM,22.812,,,0.0,6112.0,0.0,,,,,,157.56285,,21.89,700.0
-Gabon,GAB,89.741,31.0,16449.715,3261.0,885.0,3.0,"Cameroon 349 km; Republic of the Congo 2,567 km; Equatorial Guinea 345 km",,20.358,electoral_autocracies,0.38024372,8.800831,2.468642,21.459,257670.0
-United Kingdom,GBR,83.652,77.0,39113.01,499.0,12429.0,1.0,Ireland 499 km,2.45,3.613,liberal_democracies,0.32824126,277.39825,0.49803847,39.091,241930.0
-Georgia,GEO,59.039,56.0,12631.664,1814.0,310.0,4.0,Armenia 219 km; Azerbaijan 428 km; Russia 894 km; Turkey 273 km,4.64,11.565,electoral_democracies,0.35900706,54.63694,4.8486285,36.329,69490.0
-Ghana,GHA,56.707,41.0,4143.3774,2420.0,539.0,3.0,Burkina Faso 602 km; Cote d'Ivoire 720 km; Togo 1098 km,0.69,3.16,electoral_democracies,0.43512443,137.38202,25.208553,20.25,227533.0
-Guinea,GIN,36.5,29.0,1690.8837,4046.0,320.0,6.0,Cote d'Ivoire 816 km; Guinea-Bissau 421 km; Liberia 590 km; Mali 1062 km; Senegal 363 km; Sierra Leone 794 km,,5.018,electoral_autocracies,0.29591954,53.045536,13.8201,17.435,245720.0
-Gambia,GMB,61.931,37.0,1952.326,749.0,80.0,1.0,Senegal 749 km,0.94,4.538,electoral_democracies,0.38757205,242.77144,17.242134,17.468,10120.0
-Guinea-Bissau,GNB,43.777,18.0,1543.4176,762.0,650.0,2.0,Guinea 421 km; Senegal 341 km,,2.413,electoral_democracies,0.34765232,69.97525,21.66049,18.188,28120.0
-Equatorial Guinea,GNQ,72.627,16.0,25006.34,528.0,296.0,2.0,Cameroon 183 km; Gabon 345 km,,8.064,electoral_autocracies,,59.543102,,21.16,28050.0
-Greece,GRC,79.388,48.0,23869.793,1110.0,13676.0,4.0,Albania 212 km; Bulgaria 472 km; North Macedonia 234 km; Turkey 192 km,4.24,17.045,liberal_democracies,0.33101925,83.15423,0.6895518,44.005,128900.0
-Grenada,GRD,36.396,53.0,,0.0,121.0,0.0,,3.18,,,0.4381641,341.16177,0.31790403,31.442,340.0
-Greenland,GRL,87.052,,,0.0,44087.0,0.0,,,,,,0.13669875,,33.475,410450.0
-Guatemala,GTM,51.439,26.0,7565.846,1667.0,400.0,4.0,Belize 266 km; El Salvador 199 km; Honduras 244 km; Mexico 958 km,0.47,2.193,electoral_democracies,0.4827621,159.60995,9.521302,21.215,107160.0
-French Guiana,GUF,,,,,,,,,,,,3.448569,,24.963,
-Guam,GUM,,,,0.0,125.5,0.0,,,5.401,,,,,,
-Guyana,GUY,26.689,40.0,,2933.0,459.0,3.0,"Brazil 1,308 km; Suriname 836 km; Venezuela 789 km",2.18,13.172,electoral_democracies,,4.102957,,24.613,196850.0
-Hong Kong,HKG,,76.0,,33.0,733.0,1.0,China 33 km,,2.917,,,,,,
-Honduras,HND,57.73,26.0,5099.8145,1575.0,823.0,3.0,Guatemala 244 km; El Salvador 391 km; Nicaragua 940 km,0.65,5.698,electoral_autocracies,0.48162824,88.86976,12.742991,22.245,111890.0
-Croatia,HRV,57.242,47.0,23590.277,2237.0,5835.0,5.0,Bosnia and Herzegovina 956 km; Hungary 348 km; Montenegro 19 km; Serbia 314 km; Slovenia 600 km,5.58,6.617,electoral_democracies,0.28908294,71.23549,0.25992584,43.952,55960.0
-Haiti,HTI,56.192,18.0,1719.4462,376.0,1771.0,1.0,Dominican Republic 376 km,4.87,14.057,electoral_autocracies,,402.945,,22.507,27560.0
-Hungary,HUN,71.644,44.0,27272.312,2106.0,0.0,7.0,Austria 321 km; Croatia 348 km; Romania 424 km; Serbia 164 km; Slovakia 627 km; Slovenia 94 km; Ukraine 128 km,6.91,3.419,electoral_autocracies,0.29950473,107.060555,0.30170247,42.118,91260.0
-Indonesia,IDN,55.985,40.0,12250.278,2959.0,54716.0,3.0,"Malaysia 1,881 km; Papua New Guinea 824 km; Timor-Leste 253 km",1.18,3.59,electoral_democracies,0.35359862,143.9796,3.3554103,28.891,1892555.5
-India,IND,34.472,41.0,7293.9897,13888.0,700.0,6.0,"Bangladesh 4,142 km; Bhutan 659 km; Burma 1,468 km; China 2,659 km; Nepal 1,770 km; Pakistan 3,190 km",1.63,6.51,electoral_autocracies,0.33812764,467.18518,13.204494,26.668,2973190.0
-Ireland,IRL,63.405,74.0,59733.91,490.0,1448.0,1.0,UK 499 km,2.9,4.95,liberal_democracies,0.308315,71.61404,0.058011558,36.883,68890.0
-"Iran, Islamic Republic of",IRN,75.391,26.0,17400.414,5894.0,2440.0,7.0,"Afghanistan 921 km; Armenia 44 km; Azerbaijan 689 km; Iraq 1,599 km; Pakistan 959 km; Turkey 534 km; Turkmenistan 1,148 km",1.86,10.74,electoral_autocracies,0.36482257,53.652786,0.72633666,30.785,1622500.0
-Iraq,IRQ,70.678,20.0,14203.617,3809.0,58.0,6.0,"Iran 1,599 km; Jordan 179 km; Kuwait 254 km; Saudi Arabia 811 km; Syria 599 km; Turkey 367 km",1.2,14.109,electoral_autocracies,,94.88486,,19.363,434128.0
-Iceland,ISL,93.855,78.0,43136.605,0.0,4970.0,0.0,,2.8,3.507,liberal_democracies,0.2613158,3.5773976,0.0,35.454,100830.0
-Israel,ISR,92.501,60.0,33951.89,1068.0,273.0,6.0,Egypt 208 km; Gaza Strip 59 km; Jordan 327 km (20 km are within the Dead Sea); Lebanon 81 km; Syria 83 km; West Bank 330 km,3.12,3.731,liberal_democracies,0.3828222,400.06775,0.725289,28.935,
-Italy,ITA,70.736,53.0,35407.242,1836.4,7600.0,6.0,Austria 404 km; France 476 km; Holy See (Vatican City) 3.4 km; San Marino 37 km; Slovenia 218 km; Switzerland 698 km,3.16,9.951,liberal_democracies,0.34583586,203.33676,0.9943459,45.998,295720.0
-Jamaica,JAM,55.985,43.0,7641.0815,0.0,1022.0,0.0,,1.73,4.987,liberal_democracies,0.3563868,260.69022,0.05606334,29.746,10830.0
-Jordan,JOR,91.203,48.0,9166.066,1744.0,26.0,5.0,Iraq 179 km; Israel 307 km; Saudi Arabia 731 km; Syria 379 km; West Bank 148 km,1.36,16.801,closed_autocracies,,120.18709,,22.906,88794.0
-Japan,JPN,91.698,73.0,38332.934,0.0,29751.0,0.0,,12.88,2.351,liberal_democracies,,347.59787,,47.262,364500.0
-Kazakstan,KAZ,57.54,34.0,26026.064,13364.0,0.0,5.0,"China 1,765 km; Kyrgyzstan 1,212 km; Russia 7,644 km; Turkmenistan 413 km; Uzbekistan 2,330 km",5.13,4.8,electoral_autocracies,0.27968282,7.115442,0.016059816,29.063,2699700.0
-Kenya,KEN,27.507,28.0,3207.2622,3457.0,536.0,5.0,Ethiopia 867 km; Somalia 684 km; South Sudan 317 km; Tanzania 775 km; Uganda 814 km,1.33,5.014,electoral_autocracies,0.36246458,89.96526,35.03161,18.541,569140.0
-Kyrgyzstan,KGZ,36.591,30.0,5412.708,4573.0,0.0,4.0,"China 1,063 km; Kazakhstan 1,212 km; Tajikistan 984 km; Uzbekistan 1,314 km",4.2,4.295,electoral_autocracies,0.2970068,33.85837,0.65906364,24.47,191800.0
-Cambodia,KHM,23.805,20.0,3896.7979,2530.0,443.0,3.0,Laos 555 km; Thailand 817 km; Vietnam 1158 km,0.74,0.119,electoral_autocracies,,93.36791,,24.842,176520.0
-Kiribati,KIR,54.835,,,0.0,1143.0,0.0,,1.86,,,0.27832702,152.99753,1.6780767,21.993,810.0
-Saint Kitts & Nevis,KNA,30.799,,,0.0,135.0,0.0,,4.32,,,,180.66924,,33.673,260.0
-"Korea, Republic of",KOR,81.43,59.0,38935.992,237.0,2413.0,1.0,North Korea 237 km,12.42,3.746,liberal_democracies,0.33196163,530.4082,0.0,42.184,97600.0
-Kuwait,KWT,100.0,40.0,73748.44,475.0,499.0,2.0,Iraq 254 km; Saudi Arabia 221 km,2.0,2.251,electoral_autocracies,,249.28181,,36.212,17820.0
-"Lao, People's Democratic Republic",LAO,35.645,29.0,6706.0063,5274.0,0.0,5.0,"Burma 238 km; Cambodia 555 km; China 475 km; Thailand 1,845 km; Vietnam 2,161 km",1.69,2.537,closed_autocracies,0.38802433,31.3589,7.1383624,23.087,230800.0
-Lebanon,LBN,88.758,28.0,12854.797,484.0,225.0,2.0,Israel 81 km; Syria 403 km,2.73,11.301,electoral_autocracies,,566.43207,,27.946,10230.0
-Liberia,LBR,51.615,28.0,807.3494,1667.0,579.0,3.0,Guinea 590 km; Cote d'Ivoire 778 km; Sierra Leone 299 km,1.64,3.068,electoral_democracies,0.35265347,52.364204,27.617746,17.766,96320.0
-Libyan Arab Jamahiriya,LBY,80.393,18.0,16971.502,4339.0,1770.0,6.0,"Algeria 989 km; Chad 1,050 km; Egypt 1,115 km; Niger 342 km; Sudan 382 km; Tunisia 461 km",3.2,19.05,closed_autocracies,,3.950486,,26.235,1759540.0
-Saint Lucia,LCA,18.754,55.0,10977.819,0.0,158.0,0.0,,1.74,15.613,,0.5122298,291.26886,5.222044,32.16,610.0
-Liechtenstein,LIE,14.371,,,75.0,0.0,2.0,Austria 34 km; Switzerland 41 km,,,,,240.3875,,43.386,160.0
-Sri Lanka,LKA,18.585,38.0,11939.55,0.0,1340.0,0.0,,4.0,4.67,electoral_democracies,0.37663776,362.27856,0.95861256,31.816,61860.0
-Lesotho,LSO,28.585,40.0,2514.2244,1106.0,0.0,1.0,"South Africa 1,106 km",,16.876,electoral_democracies,0.44877714,72.77385,32.39991,20.838,30360.0
-Lithuania,LTU,67.855,60.0,28986.053,1545.0,90.0,4.0,Belarus 640 km; Latvia 544 km; Poland 100 km; Russia (Kaliningrad) 261 km,6.22,6.255,electoral_democracies,0.35251358,44.64234,0.54792964,43.14,62604.0
-Luxembourg,LUX,91.223,80.0,54751.6,327.0,0.0,3.0,Belgium 130 km; France 69 km; Germany 128 km,4.26,5.592,liberal_democracies,0.34241158,240.89166,0.101187475,38.484,2574.46
-Latvia,LVA,68.222,56.0,25858.602,1370.0,498.0,4.0,Belarus 161 km; Estonia 333 km; Lithuania 544 km; Russia 332 km,5.42,6.312,liberal_democracies,0.34489113,30.76116,0.2391008,42.639,62230.0
-Macao,MAC,,,,3.0,41.0,1.0,China 3 km,,1.749,,,,,,
-Saint Martin,MAF,,,,16.0,58.9,1.0,Sint Maarten 16 km,3.38,,,,,,,
-Morocco,MAR,62.994,41.0,8540.804,3523.5,2945.0,3.0,"Algeria 1,941 km; Mauritania 1,564 km; Spain (Ceuta) 8 km and Spain (Melilla) 10.5 km",0.7,9.194,closed_autocracies,,81.135796,,27.874,446300.0
-Monaco,MCO,100.0,,,6.0,4.1,1.0,France 6 km,22.02,,,,18297.025,,54.642,2.084
-"Moldova, Republic of",MDA,42.726,32.0,7078.23,1885.0,0.0,2.0,Romania 683 km; Ukraine 1202 km,5.8,1.466,electoral_democracies,0.26016647,94.405914,0.02864514,36.459,32890.0
-Madagascar,MDG,37.861,24.0,1434.2703,0.0,4828.0,0.0,,0.32,2.469,electoral_autocracies,,48.50388,,18.242,581800.0
-Maldives,MDV,40.238,29.0,,0.0,644.0,0.0,,6.36,4.562,electoral_democracies,0.2928509,1625.79,0.0,28.513,300.0
-Mexico,MEX,80.444,29.0,16802.014,4389.0,9330.0,3.0,"Belize 276 km; Guatemala 958 km; US 3,155 km",0.97,3.477,electoral_democracies,0.44594344,64.69455,2.1319396,27.616,1943950.0
-Marshall Islands,MHL,77.417,,,0.0,370.4,0.0,,,,,0.35482943,244.60556,0.85434437,21.337,180.0
-"Macedonia, The Former Yugoslav Republic Of",MKD,58.208,35.0,13751.228,838.0,0.0,5.0,Albania 181 km; Bulgaria 162 km; Greece 234 km; Kosovo 160 km; Serbia 101 km,4.19,17.414,electoral_democracies,0.33505824,75.243576,,38.861,25220.0
-Mali,MLI,43.136,29.0,1706.0105,7908.0,0.0,6.0,"Algeria 1,359 km; Burkina Faso 1,325 km; Cote d'Ivoire 599 km; Guinea 1,062 km; Mauritania 2,236 km; Niger 838 km, Senegal 489 km",0.25,3.29,electoral_autocracies,0.3596336,17.266497,15.218806,15.021,1220190.0
-Malta,MLT,94.678,54.0,33220.285,0.0,196.8,0.0,,4.11,3.616,electoral_democracies,0.31041777,1575.0531,0.30468178,38.893,320.0
-Myanmar,MMR,30.852,29.0,6140.885,6522.0,1930.0,5.0,"Bangladesh 271 km; China 2,129 km; India 1,468 km; Laos 238 km; Thailand 2,416 km",1.04,0.407,electoral_autocracies,0.3069687,80.65442,1.9911567,28.445,652670.0
-Montenegro,MNE,67.15,45.0,20448.549,680.0,293.5,5.0,Albania 186 km; Bosnia and Herzegovina 242 km; Croatia 19 km; Kosovo 76 km; Serbia 157 km,3.81,15.128,electoral_autocracies,0.35665408,45.477547,1.9976742,38.341,13450.0
-Mongolia,MNG,68.543,35.0,13871.33,8082.0,0.0,2.0,"China 4,630 km; Russia 3,452 km",7.94,9.269,electoral_democracies,0.3274099,2.0751874,0.7115856,26.334,1557506.8
-Northern Mariana Islands,MNP,,,,0.0,1482.0,0.0,,,,,,,2.6633506,,
-Mozambique,MOZ,36.528,26.0,1118.6304,4783.0,2470.0,6.0,"Malawi 1498 km; South Africa 496 km; Eswatini 108 km; Tanzania 840 km; Zambia 439 km; Zimbabwe 1,402 km",0.71,3.646,electoral_autocracies,0.50274074,38.00246,74.52835,16.07,786380.0
-Mauritania,MRT,54.507,28.0,3659.103,5002.0,754.0,4.0,"Algeria 460 km; Mali 2,236 km; Morocco 1,564 km; Senegal 742 km",,10.416,electoral_autocracies,0.31996742,4.3346405,5.354673,16.772,1030700.0
-Mauritius,MUS,40.766,52.0,21624.842,0.0,177.0,0.0,,3.63,6.331,electoral_democracies,0.36761206,644.10065,0.12531371,35.594,1997.0
-Malawi,MWI,17.174,31.0,1205.477,2857.0,0.0,3.0,"Mozambique 1,498 km; Tanzania 512 km; Zambia 847 km",,4.966,electoral_autocracies,0.38542363,201.80046,70.0606,16.695,94280.0
-Malaysia,MYS,76.607,53.0,25986.412,2742.0,4675.0,3.0,"Brunei 266 km; Indonesia 1,881 km; Thailand 595 km",1.94,3.26,electoral_autocracies,0.41176775,101.78234,0.01102865,28.175,328550.0
-Namibia,NAM,51.042,52.0,8567.793,4220.0,1572.0,4.0,"Angola 1,427 km; Botswana 1,544 km; South Africa 1,005 km; Zambia 244 km",,19.921,electoral_democracies,0.5906661,3.2194002,15.617013,20.733,823290.0
-New Caledonia,NCL,71.104,,,0.0,2254.0,0.0,,,10.88,,,15.515153,,32.476,18280.0
-Niger,NER,16.517,32.0,964.32434,5834.0,0.0,7.0,"Algeria 951 km; Benin 277 km; Burkina Faso 622 km; Chad 1,196 km; Libya 342 km; Mali 838 km; Nigeria 1,608 km",0.29,0.531,electoral_democracies,0.37259424,18.11618,50.905937,14.699,1266700.0
-Nigeria,NGA,51.157,26.0,5197.0825,4477.0,853.0,4.0,"Benin 809 km; Cameroon 1,975 km; Chad 85 km; Niger 1,608 km",,5.206,electoral_democracies,0.35127744,230.00937,30.863297,17.053,910770.0
-Nicaragua,NIC,58.76,22.0,4721.7275,1253.0,910.0,2.0,Costa Rica 313 km; Honduras 940 km,0.96,5.472,electoral_autocracies,0.46156293,53.877846,3.9410286,23.98,120340.0
-Netherlands,NLD,91.876,82.0,48142.67,1053.0,451.0,2.0,Belgium 478 km; Germany 575 km,3.02,3.379,liberal_democracies,0.29248324,520.86444,0.0957287,41.489,33670.0
-Norway,NOR,82.616,84.0,85115.32,2566.0,25148.0,3.0,"Finland 709 km; Sweden 1,666 km; Russia 191 km",3.47,3.684,liberal_democracies,0.2774182,14.68069,0.15653396,38.797,364270.0
-Nepal,NPL,20.153,34.0,2953.5603,3159.0,0.0,2.0,"China 1,389 km; India 1,770 km",0.29,10.389,electoral_democracies,0.30020264,198.21461,0.36659858,22.663,143350.0
-Nauru,NRU,100.0,,,0.0,30.0,0.0,,,,,,580.45,,20.903,20.0
-New Zealand,NZL,86.615,87.0,36912.074,0.0,15134.0,0.0,,2.55,4.109,liberal_democracies,,18.948812,,36.287,263310.0
-Oman,OMN,85.443,52.0,48596.527,1561.0,2092.0,3.0,Saudi Arabia 658 km; UAE 609 km; Yemen 294 km,1.1,2.04,closed_autocracies,,14.8344,,28.88,309500.0
-Pakistan,PAK,36.907,32.0,5219.534,7257.0,1046.0,4.0,"Afghanistan 2,670 km; China 438 km; India 3,190 km; Iran 959 km",0.51,4.83,electoral_autocracies,0.29589266,299.39926,4.932448,19.652,770880.0
-Panama,PAN,68.059,36.0,23218.432,687.0,2490.0,2.0,Colombia 339 km; Costa Rica 348 km,1.94,6.256,electoral_democracies,0.49837545,57.086803,1.0040996,28.361,74180.0
-Peru,PER,78.099,36.0,12680.354,7062.0,2414.0,5.0,"Bolivia 1,212 km; Brazil 2,659 km; Chile 168 km; Colombia 1,494 km; Ecuador 1,529 km",1.58,3.379,electoral_democracies,0.4152813,25.351017,2.9770849,28.221,1280000.0
-Philippines,PHL,47.149,34.0,8602.1455,0.0,36289.0,0.0,,0.98,2.237,electoral_autocracies,0.37811705,371.6158,5.057057,23.689,298170.0
-Palau,PLW,80.47,,,0.0,1519.0,0.0,,,,,,38.739132,,36.439,460.0
-Papua New Guinea,PNG,13.25,28.0,,824.0,5152.0,1.0,Indonesia 824 km,0.17,2.634,electoral_autocracies,,21.21851,,21.543,452860.0
-Poland,POL,60.037,58.0,29142.023,2865.0,440.0,6.0,"Belarus 375 km; Czechia 699 km; Germany 467 km; Lithuania 100 km, Russia (Kaliningrad Oblast) 209 km; Slovakia 517 km; Ukraine 498 km",6.09,3.267,electoral_democracies,0.28760177,124.88038,0.06276072,39.742,306090.0
-Puerto Rico,PRI,93.576,,35041.33,0.0,501.0,0.0,,,8.3,,,370.69064,,43.746,8870.0
-"Korea, Democratic People's Republic of",PRK,62.134,17.0,1666.8143,1607.0,2495.0,3.0,"China 1,352 km; South Korea 237 km; Russia 18 km",,2.782,closed_autocracies,,216.24146,,35.124,120410.0
-Portugal,PRT,65.764,62.0,28056.057,1224.0,1793.0,1.0,"Spain 1,224 km",3.51,6.464,liberal_democracies,0.32762748,112.910324,0.14872062,44.604,91605.6
-Paraguay,PRY,61.879,28.0,8776.076,4655.0,0.0,3.0,"Argentina 2,531 km; Bolivia 753 km; Brazil 1,371 km",0.9,6.595,electoral_democracies,0.45650637,16.398338,1.0115106,25.215,396012.03
-"Palestinian Territory, Occupied",PSE,76.44,,5176.9795,550.0,40.0,3.0,Egypt 13 km; Israel 389 km; Jordan 148 km,,25.34,,0.3369004,822.86707,0.5027174,19.152,
-French Polynesia,PYF,,,,0.0,2525.0,0.0,,,11.565,,,,,,
-Qatar,QAT,99.188,62.0,150732.22,87.0,563.0,1.0,Saudi Arabia 87 km,1.12,0.1,closed_autocracies,0.35128385,243.50975,0.0,31.206,11490.0
-Romania,ROU,54.084,44.0,23267.516,2844.0,225.0,5.0,Bulgaria 605 km; Hungary 424 km; Moldova 683 km; Serbia 531 km; Ukraine 601 km,7.0,3.912,electoral_democracies,0.34800515,84.759834,2.1640766,41.628,230080.0
-Russia Federation,RUS,74.587,28.0,25244.12,22407.0,37653.0,14.0,"Azerbaijan 338 km; Belarus 1,312 km; China (southeast) 4,133 km and China (south) 46 km; Estonia 324 km; Finland 1,309 km; Georgia 894 km; Kazakhstan 7,644 km; North Korea 18 km; Latvia 332 km; Lithuania (Kaliningrad Oblast) 261 km; Mongolia 3,452 km; Norway 191 km; Poland (Kaliningrad Oblast) 209 km; Ukraine 1,944 km",7.07,4.513,electoral_autocracies,0.37736863,8.947562,0.030398078,38.441,16376870.0
-Rwanda,RWA,17.313,53.0,2042.8529,930.0,0.0,4.0,Burundi 315 km; Democratic Republic of the Congo 221 km; Tanzania 222 km; Uganda 172 km,0.72,11.236,electoral_autocracies,0.43709454,517.8802,52.005394,18.742,24670.0
-Saudi Arabia,SAU,84.065,53.0,50123.336,4272.0,2640.0,7.0,"Iraq 811 km; Jordan 731 km; Kuwait 221 km; Oman 658 km; Qatar 87 km; UAE 457 km; Yemen 1,307 km",2.15,5.636,closed_autocracies,,14.175446,,28.404,2149690.0
-Sudan,SDN,34.936,16.0,,6819.0,853.0,7.0,"Central African Republic 174 km; Chad 1,403 km; Egypt 1,276 km; Eritrea 682 km; Ethiopia 744 km; Libya 382 km; South Sudan 2,158 km",0.66,11.658,electoral_autocracies,0.3424273,24.383392,15.26306,17.675,1868000.0
-Senegal,SEN,47.653,45.0,2559.8176,2684.0,531.0,5.0,The Gambia 749 km; Guinea 363 km; Guinea-Bissau 341 km; Mali 489 km; Mauritania 742 km,0.73,2.863,electoral_democracies,0.38314784,84.93703,9.222566,18.16,192530.0
-Singapore,SGP,100.0,85.0,74649.734,0.0,193.0,0.0,,2.6,3.1,electoral_autocracies,,7896.3257,,34.186,718.0
-Solomon Islands,SLB,24.21,42.0,,0.0,5313.0,0.0,,,0.743,electoral_democracies,,26.014862,,19.482,27990.0
-Sierra Leone,SLE,42.484,33.0,1707.3713,1093.0,402.0,2.0,Guinea 794 km; Liberia 299 km,,3.203,electoral_democracies,0.35690176,107.12102,26.062035,18.4,72180.0
-El Salvador,SLV,72.746,34.0,8849.834,590.0,307.0,2.0,Guatemala 199 km; Honduras 391 km,1.06,4.17,electoral_democracies,0.38778764,300.30484,1.4019152,25.293,20720.0
-San Marino,SMR,97.368,,,37.0,0.0,1.0,Italy 37 km,,,,,577.9,,45.332,60.0
-Somalia,SOM,45.554,9.0,,2385.0,3025.0,3.0,"Djibouti 61 km; Ethiopia 1,640 km; Kenya 684 km",0.87,18.828,closed_autocracies,,25.553877,,15.214,627340.0
-Republic of Serbia,SRB,56.26,39.0,15293.246,,,,,5.34,10.395,electoral_autocracies,0.34475464,82.841644,2.3344426,43.166,84090.0
-South Sudan,SSD,19.899,12.0,,6018.0,0.0,6.0,"Central African Republic 1,055 km; Democratic Republic of the Congo 714 km; Ethiopia 1,299 km; Kenya 317 km; Sudan 2,158 km; Uganda 475 km",,12.709,closed_autocracies,0.44057786,16.49452,67.32727,16.594,631930.0
-Sao Tome and Principe,STP,73.598,46.0,3781.2275,0.0,209.0,0.0,,2.89,8.831,electoral_democracies,0.4072948,222.29584,15.723551,18.32,960.0
-Suriname,SUR,66.095,44.0,,1907.0,836.0,3.0,Brazil 515 km; French Guiana 556 km; Guyana 836 km,2.72,7.556,electoral_democracies,0.39179897,3.8832052,1.1043117,27.298,160507.61
-Slovakia,SVK,53.729,50.0,27429.225,1587.0,0.0,5.0,Austria 105 km; Czechia 241 km; Hungary 627 km; Poland 517 km; Ukraine 97 km,5.76,5.761,electoral_democracies,0.23232324,113.36577,0.11811627,39.805,48080.0
-Slovenia,SVN,54.822,60.0,30229.299,1211.0,46.6,4.0,Austria 299 km; Croatia 600 km; Hungary 94 km; Italy 218 km,4.38,4.446,liberal_democracies,0.24384232,103.466156,0.0,42.973,20136.4
-Sweden,SWE,87.708,85.0,45434.402,2211.0,3218.0,2.0,"Finland 545 km; Norway 1,666 km",2.07,6.833,liberal_democracies,0.2930465,25.238245,0.3165186,39.529,407280.0
-Swaziland,SWZ,23.981,34.0,8375.426,546.0,0.0,2.0,Mozambique 108 km; South Africa 438 km,,28.138,closed_autocracies,0.54579794,68.59796,36.07985,21.012,17200.0
-Seychelles,SYC,57.119,66.0,32745.871,0.0,491.0,0.0,,3.25,,liberal_democracies,0.3212532,255.78696,0.51100403,32.239,460.0
-Syrian Arab Republic,SYR,54.821,13.0,3385.4192,2363.0,193.0,5.0,Iraq 599 km; Israel 83 km; Jordan 379 km; Lebanon 403 km; Turkey 899 km,1.26,13.36,closed_autocracies,0.26628006,110.83993,24.835932,19.807,185179.7
-Chad,TCD,23.279,20.0,1543.8029,6406.0,0.0,6.0,"Cameroon 1,116 km; Central African Republic 1,556 km; Libya 1,050 km; Niger 1,196 km; Nigeria 85 km; Sudan 1,403 km",0.45,1.084,electoral_autocracies,0.37499154,13.250653,30.882942,14.813,1259200.0
-Togo,TGO,42.248,29.0,1501.8667,1880.0,56.0,3.0,"Benin 651 km; Burkina Faso 131 km; Ghana 1,098 km",0.58,2.036,electoral_autocracies,0.42534238,155.5997,28.434795,18.409,54390.0
-Thailand,THA,50.692,36.0,16905.293,5673.0,3219.0,4.0,"Burma 2,416 km; Cambodia 817 km; Laos 1,845 km; Malaysia 595 km",2.22,0.716,closed_autocracies,0.34855723,139.99542,0.0950376,37.714,510890.0
-Tajikistan,TJK,27.309,25.0,4695.543,4130.0,0.0,4.0,"Afghanistan 1,357 km; China 477 km; Kyrgyzstan 984 km; Uzbekistan 1,312 km",4.35,11.419,electoral_autocracies,0.3399559,68.66468,6.114529,21.276,138790.0
-Turkmenistan,TKM,52.048,19.0,17264.172,4158.0,0.0,4.0,"Afghanistan 804 km; Iran 1,148 km; Kazakhstan 413 km; Uzbekistan 1,793 km",4.13,4.043,electoral_autocracies,,14.478629,,25.13,469930.0
-Timor-Leste,TLS,30.947,38.0,,253.0,706.0,1.0,Indonesia 253 km,,3.097,electoral_democracies,0.28652927,87.48776,24.443077,19.813,14870.0
-Tonga,TON,23.107,,,0.0,419.0,0.0,,,2.157,,0.27095765,146.7889,0.01921559,20.924,720.0
-Trinidad and Tobago,TTO,53.187,40.0,27582.568,0.0,362.0,0.0,,1.9,3.523,liberal_democracies,,289.4538,,34.72,5130.0
-Tunisia,TUN,69.254,43.0,11451.897,1495.0,1148.0,2.0,"Algeria 1,034 km; Libya 461 km",1.79,17.153,electoral_democracies,0.33716425,76.43592,0.27373365,30.756,155360.0
-Turkey,TUR,75.63,39.0,23497.504,2816.0,7200.0,8.0,Armenia 311 km; Azerbaijan 17 km; Bulgaria 223 km; Georgia 273 km; Greece 192 km; Iran 534 km; Iraq 367 km; Syria 899 km,2.84,13.73,electoral_autocracies,0.4383382,110.90741,0.45154127,30.825,769630.0
-Tuvalu,TUV,63.215,,,0.0,24.0,0.0,,,,,,353.43332,,24.273,30.0
-"Taiwan, Province of China",TWN,,65.0,47200.254,0.0,1566.3,0.0,,,,liberal_democracies,0.3119192,668.5721,0.0,41.146,
-"Tanzania, United Republic of",TZA,34.5,37.0,2894.6472,4161.0,1424.0,8.0,Burundi 589 km; Democratic Republic of the Congo 479 km; Kenya 775 km; Malawi 512 km; Mozambique 840 km; Rwanda 222 km; Uganda 391 km; Zambia 353 km,0.61,2.496,electoral_autocracies,0.4049123,66.803894,44.94932,16.834,885800.0
-Uganda,UGA,24.361,28.0,2128.9087,2729.0,0.0,5.0,Democratic Republic of the Congo 877 km; Kenya 814 km; Rwanda 172 km; South Sudan 475 km; Tanzania 391 km,,3.06,electoral_autocracies,0.42702642,214.44063,42.11563,15.691,200520.0
-Ukraine,UKR,69.473,30.0,10139.761,5581.0,2782.0,6.0,"Belarus 1,111 km; Hungary 128 km; Moldova 1,202 km; Poland 498 km; Romania 601 km; Russia 1,944 km, Slovakia 97 km",6.67,8.194,electoral_democracies,0.26619467,77.59312,0.0,40.481,579400.0
-Uruguay,URY,95.426,71.0,19714.148,1591.0,660.0,2.0,"Argentina 541 km; Brazil 1,050 km",2.47,8.836,liberal_democracies,0.3967629,19.410381,0.102072,34.761,175020.0
-United States,USA,82.459,69.0,56469.26,12002.0,19924.0,2.0,"Canada 8,891 km (including 2,475 km with Alaska); Mexico 3,111 km",2.75,3.669,liberal_democracies,0.41533518,36.92736,0.99917054,37.002,9147420.0
-Uzbekistan,UZB,50.433,25.0,11219.243,6893.0,0.0,5.0,"Afghanistan 144 km; Kazakhstan 2,330 km; Kyrgyzstan 1,314 km; Tajikistan 1,312 km; Turkmenistan 1,793 km",4.65,4.932,electoral_autocracies,0.31184828,74.808754,2.2530925,26.361,440652.0
-Saint Vincent and the Grenadines,VCT,52.614,59.0,,0.0,84.0,0.0,,3.96,19.235,,,267.13333,,32.735,390.0
-Venezuela,VEN,88.24,16.0,7061.7617,5267.0,2800.0,3.0,"Brazil 2,137 km; Colombia 2,341 km; Guyana 789 km",0.93,5.876,electoral_autocracies,,32.80777,,27.854,882050.0
-"Virgin Islands, U.S.",VIR,,,,0.0,188.0,0.0,,,12.551,,,,,,
-Vietnam,VNM,36.628,37.0,7266.0483,4616.0,3444.0,3.0,"Cambodia 1,158 km; China 1,297 km; Laos 2,161 km",2.55,1.681,electoral_autocracies,0.36790165,310.03442,0.6537779,30.586,313429.0
-Vanuatu,VUT,25.394,46.0,,0.0,2528.0,0.0,,,5.444,electoral_democracies,0.32317576,23.95357,9.963333,20.188,12190.0
-Samoa,WSM,18.056,,,0.0,403.0,0.0,,,7.838,,,75.46511,,20.42,2780.0
-Kosovo,XKX,,36.0,,714.0,0.0,4.0,Albania 112 km; North Macedonia 160 km; Montenegro 76 km; Serbia 366 km,,,electoral_democracies,0.29012942,,0.4402413,29.267,
-Yemen,YEM,37.273,15.0,2265.343,1601.0,1906.0,2.0,"Oman 294 km; Saudi Arabia 1,307 km",0.71,17.202,closed_autocracies,0.36707094,66.50268,19.802757,18.017,527970.0
-South Africa,ZAF,66.856,44.0,11739.936,5244.0,2798.0,6.0,"Botswana 1,969 km; Lesotho 1,106 km; Mozambique 496 km; Namibia 1,005 km; Eswatini 438 km; Zimbabwe 230 km",,28.468,electoral_democracies,0.630258,49.120743,20.492558,26.873,1213090.0
-Zambia,ZMB,44.072,34.0,3466.2363,6043.15,0.0,8.0,"Angola 1,065 km; Botswana 0.15 km; Democratic Republic of the Congo 2,332 km; Malawi 847 km; Mozambique 439 km; Namibia 244 km; Tanzania 353 km; Zimbabwe 763 km",,5.542,electoral_autocracies,0.51483124,24.904613,64.349754,16.763,743390.0
-Zimbabwe,ZWE,32.21,24.0,1753.0244,3229.0,0.0,4.0,"Botswana 834 km; Mozambique 1,402 km; South Africa 230 km; Zambia 763 km",2.0,7.373,electoral_autocracies,0.5025645,39.476223,39.75453,17.187,386850.0
+,Code,Country,urban_population,corruption_perception_index,gdp_per_capita,land_boundaries,coastline,num_border_countries,hospital_beds_per_1000,unemployment,political_regime,gini_index,population_density,poverty,median_age,land_area_sqkm
+2,AGO,Angola,66.177,26.0,8274.543,5369.0,1600.0,4.0,0.75,16.497,electoral_autocracies,0.51263994,25.969065,31.122005,16.302,1246700.0
+6,ARE,United Arab Emirates,86.789,71.0,68887.84,1066.0,1318.0,2.0,1.87,2.331,closed_autocracies,0.26399004,132.04527,0.0,30.834,71020.0
+7,ARG,Argentina,91.991,45.0,26629.553,11968.0,4989.0,5.0,3.71,9.843,electoral_democracies,0.43314135,16.433529,1.6846492,30.763,2736690.0
+13,AUS,Australia,86.124,77.0,56981.395,0.0,25760.0,0.0,3.84,5.159,liberal_democracies,0.34332561,3.312877,0.49709398,36.543,7692020.0
+14,AUT,Austria,58.515,77.0,65312.023,2524.0,0.0,8.0,7.19,4.56,liberal_democracies,0.3021043,107.62088,0.6406389,42.433,82520.0
+17,BEL,Belgium,98.041,75.0,61711.113,1297.0,66.5,4.0,5.56,5.364,liberal_democracies,0.27219546,379.47894,0.07855247,40.735,30494.0
+18,BEN,Benin,47.861,41.0,3281.1047,2123.0,121.0,4.0,0.42,1.214,electoral_autocracies,0.37948644,112.86592,20.082186,17.331,112760.0
+19,BFA,Burkina Faso,29.98,40.0,2391.5364,3611.0,0.0,6.0,0.2,4.71,electoral_democracies,0.43016732,76.615326,31.203825,16.444,273600.0
+20,BGD,Bangladesh,37.405,26.0,6838.326,4413.0,580.0,2.0,0.88,4.441,electoral_autocracies,0.33373156,1266.9053,5.008496,24.38,130170.0
+21,BGR,Bulgaria,75.347,43.0,27917.12,1806.0,354.0,5.0,7.66,4.23,electoral_democracies,0.40271127,64.254486,0.9236337,43.628,108560.0
+24,BIH,Bosnia and Herzegovina,48.626,36.0,17269.283,1543.0,20.0,3.0,2.34,15.692,electoral_democracies,0.33030185,65.34246,0.23511446,43.292,51200.0
+26,BLR,Belarus,79.044,45.0,26798.82,3599.0,0.0,5.0,9.69,4.165,electoral_autocracies,0.25277847,46.49132,0.0,39.288,202990.0
+29,BOL,"Bolivia, Plurinational State of",69.773,31.0,9985.23,7252.0,0.0,5.0,1.26,3.682,closed_autocracies,0.416443,10.773918,1.9205352,23.8,1083300.0
+30,BRA,Brazil,86.824,35.0,18018.621,16145.0,7491.0,10.0,2.24,11.936,electoral_democracies,0.5350931,24.820768,5.4092226,32.256,8358140.0
+31,BRB,Barbados,31.158,62.0,18572.51,0.0,97.0,0.0,5.74,8.412,liberal_democracies,0.34068036,653.9907,1.6773976,37.921,430.0
+35,BWA,Botswana,70.172,61.0,18106.018,4347.15,0.0,4.0,2.3,20.094,liberal_democracies,0.5332503,4.1149774,15.426243,22.105,566730.0
+37,CAN,Canada,81.482,77.0,56713.09,8892.0,202080.0,2.0,2.53,5.69,liberal_democracies,0.31749648,4.299035,0.24863754,39.788,8788700.0
+39,CHE,Switzerland,73.849,85.0,80315.68,1770.0,0.0,5.0,4.59,4.394,liberal_democracies,0.3399834,217.09964,0.017386846,41.582,39509.63
+41,CHL,Chile,87.643,67.0,28228.5,7801.0,6435.0,3.0,2.04,7.493,electoral_democracies,0.4700476,25.819664,1.3415734,34.328,743532.0
+43,CIV,Côte d'Ivoire,51.239,35.0,5894.879,3458.0,515.0,5.0,0.4,2.401,electoral_democracies,0.37168875,88.65728,11.502216,17.817,318000.0
+44,CMR,Cameroon,56.968,25.0,4882.3555,5018.0,402.0,6.0,2.65,3.622,electoral_autocracies,0.42176074,53.957176,22.99222,17.374,472710.0
+48,COL,Colombia,81.104,37.0,17652.896,6672.0,3208.0,5.0,1.74,10.28,electoral_democracies,0.5132595,44.982414,5.2847376,30.084,1109500.0
+50,CPV,Cabo Verde,66.195,58.0,9111.63,0.0,965.0,0.0,1.97,12.128,electoral_democracies,0.42381087,127.57221,4.5642314,26.018,4030.0
+51,CRI,Costa Rica,80.076,56.0,23646.408,661.0,1290.0,2.0,1.09,10.807,liberal_democracies,0.4818988,97.915215,1.0571395,32.014,51060.0
+57,CZE,Czechia,73.921,56.0,49961.797,2046.0,0.0,4.0,6.66,2.015,liberal_democracies,0.25262198,136.74446,0.0,41.963,77171.73
+58,DEU,Germany,77.376,80.0,63392.95,3694.0,2389.0,9.0,7.91,3.163,liberal_democracies,0.31780925,239.15735,0.24957946,44.904,349360.0
+61,DNK,Denmark,87.994,87.0,67179.125,141.0,7314.0,2.0,2.6,5.018,liberal_democracies,0.27723306,145.36548,0.25140718,40.993,40000.0
+62,DOM,Dominican Republic,81.828,28.0,21363.861,376.0,1288.0,1.0,1.25,6.356,electoral_democracies,0.41917086,229.19868,0.83268654,26.388,48198.02
+64,ECU,Ecuador,63.986,38.0,13853.421,2237.0,2237.0,2.0,1.39,3.812,electoral_democracies,0.45709932,69.81808,3.5835843,26.856,248360.0
+65,EGY,Egypt,42.73,35.0,15026.568,2612.0,2450.0,4.0,1.22,7.851,electoral_autocracies,0.31893092,108.04476,1.4670148,23.328,995450.0
+68,ESP,Spain,80.565,62.0,46682.477,1952.7,4964.0,5.0,2.95,14.104,liberal_democracies,0.34303716,94.92088,0.79381347,43.138,499713.7
+69,EST,Estonia,69.051,74.0,43435.2,657.0,3794.0,2.0,4.53,4.514,liberal_democracies,0.30765438,31.036749,0.5569404,41.213,42730.0
+71,FIN,Finland,85.446,86.0,57451.63,2563.0,1250.0,3.0,3.35,6.695,liberal_democracies,0.27737123,18.166794,0.03882923,41.974,303947.7
+74,FRA,France,80.709,69.0,54856.867,3956.0,4853.0,8.0,6.1,8.415,liberal_democracies,0.31199563,120.04131,0.051448993,41.08,547557.0
+77,GAB,Gabon,89.741,31.0,19491.406,3261.0,885.0,3.0,2.0,20.358,electoral_autocracies,0.38024372,8.800831,2.468642,21.459,257670.0
+78,GBR,United Kingdom of Great Britain and Northern Ireland,83.652,77.0,54440.105,499.0,12429.0,1.0,2.45,3.613,liberal_democracies,0.32824126,277.39825,0.49803847,39.091,241930.0
+79,GEO,Georgia,59.039,56.0,18186.88,1814.0,310.0,4.0,4.64,11.565,electoral_democracies,0.35900706,54.63694,4.8486285,36.329,69490.0
+81,GHA,Ghana,56.707,41.0,6508.2466,2420.0,539.0,3.0,0.69,3.16,electoral_democracies,0.43512443,137.38202,25.208553,20.25,227533.0
+87,GRC,Greece,79.388,48.0,33549.066,1110.0,13676.0,4.0,4.24,17.045,liberal_democracies,0.33101925,83.15423,0.6895518,44.005,128900.0
+90,GTM,Guatemala,51.439,26.0,11470.364,1667.0,400.0,4.0,0.47,2.193,electoral_democracies,0.4827621,159.60995,9.521302,21.215,107160.0
+96,HND,Honduras,57.73,26.0,6264.019,1575.0,823.0,3.0,0.65,5.698,electoral_autocracies,0.48162824,88.86976,12.742991,22.245,111890.0
+97,HRV,Croatia,57.242,47.0,35107.934,2237.0,5835.0,5.0,5.58,6.617,electoral_democracies,0.28908294,71.23549,0.25992584,43.952,55960.0
+98,HTI,Haiti,56.192,18.0,3381.5847,376.0,1771.0,1.0,4.87,14.057,electoral_autocracies,0.60450804,402.945,65.09744,22.507,27560.0
+99,HUN,Hungary,71.644,44.0,37557.926,2106.0,0.0,7.0,6.91,3.419,electoral_autocracies,0.29950473,107.060555,0.30170247,42.118,91260.0
+100,IDN,Indonesia,55.985,40.0,12757.785,2959.0,54716.0,3.0,1.18,3.59,electoral_democracies,0.35359862,143.9796,3.3554103,28.891,1892555.5
+102,IND,India,34.472,41.0,7930.0913,13888.0,700.0,6.0,1.63,6.51,electoral_autocracies,0.33812764,467.18518,13.204494,26.668,2973190.0
+104,IRL,Ireland,63.405,74.0,96701.664,490.0,1448.0,1.0,2.9,4.95,liberal_democracies,0.308315,71.61404,0.058011558,36.883,68890.0
+106,IRQ,Iraq,70.678,20.0,14910.225,3809.0,58.0,6.0,1.2,14.109,electoral_autocracies,0.29541856,94.88486,0.5591268,19.363,434128.0
+108,ISR,Israel,92.501,60.0,44419.97,1068.0,273.0,6.0,3.12,3.731,liberal_democracies,0.3828222,400.06775,0.725289,28.935,22070.0
+109,ITA,Italy,70.736,53.0,50328.594,1836.4,7600.0,6.0,3.16,9.951,liberal_democracies,0.34583586,203.33676,0.9943459,45.998,295720.0
+110,JAM,Jamaica,55.985,43.0,10216.065,0.0,1022.0,0.0,1.73,4.987,liberal_democracies,0.3563868,260.69022,0.05606334,29.746,10830.0
+112,JOR,Jordan,91.203,48.0,9288.527,1744.0,26.0,5.0,1.36,16.801,closed_autocracies,0.3365573,120.18709,0.10412249,22.906,88794.0
+113,JPN,Japan,91.698,73.0,44976.508,0.0,29751.0,0.0,12.88,2.351,liberal_democracies,0.32984936,347.59787,1.2214445,47.262,364500.0
+114,KAZ,Kazakhstan,57.54,34.0,33298.21,13364.0,0.0,5.0,5.13,4.8,electoral_autocracies,0.27968282,7.115442,0.016059816,29.063,2699700.0
+115,KEN,Kenya,27.507,28.0,5171.7124,3457.0,536.0,5.0,1.33,5.014,electoral_autocracies,0.36246458,89.96526,35.03161,18.541,569140.0
+116,KGZ,Kyrgyzstan,36.591,30.0,6087.602,4573.0,0.0,4.0,4.2,4.295,electoral_autocracies,0.2970068,33.85837,0.65906364,24.47,191800.0
+120,KOR,"Korea, Republic of",81.43,59.0,46903.84,237.0,2413.0,1.0,12.42,3.746,liberal_democracies,0.33196163,530.4082,0.0,42.184,97600.0
+122,LAO,Lao People's Democratic Republic,35.645,29.0,8075.275,5274.0,0.0,5.0,1.69,2.537,closed_autocracies,0.38802433,31.3589,7.1383624,23.087,230800.0
+123,LBN,Lebanon,88.758,28.0,15659.566,484.0,225.0,2.0,2.73,11.301,electoral_autocracies,0.3183245,566.43207,5.89,27.946,10230.0
+128,LKA,Sri Lanka,18.585,38.0,14637.444,0.0,1340.0,0.0,4.0,4.67,electoral_democracies,0.37663776,362.27856,0.95861256,31.816,61860.0
+130,LTU,Lithuania,67.855,60.0,43868.605,1545.0,90.0,4.0,6.22,6.255,electoral_democracies,0.35251358,44.64234,0.54792964,43.14,62604.0
+131,LUX,Luxembourg,91.223,80.0,134105.64,327.0,0.0,3.0,4.26,5.592,liberal_democracies,0.34241158,240.89166,0.101187475,38.484,2574.46
+132,LVA,Latvia,68.222,56.0,33959.92,1370.0,498.0,4.0,5.42,6.312,liberal_democracies,0.34489113,30.76116,0.2391008,42.639,62230.0
+135,MAR,Morocco,62.994,41.0,8768.176,3523.5,2945.0,3.0,0.7,9.194,closed_autocracies,0.39548507,81.135796,3.675868,27.874,446300.0
+137,MDA,"Moldova, Republic of",42.726,32.0,14621.24,1885.0,0.0,2.0,5.8,1.466,electoral_democracies,0.26016647,94.405914,0.02864514,36.459,32890.0
+140,MEX,Mexico,80.444,29.0,21964.354,4389.0,9330.0,3.0,0.97,3.477,electoral_democracies,0.44594344,64.69455,2.1319396,27.616,1943950.0
+143,MLI,Mali,43.136,29.0,2451.122,7908.0,0.0,6.0,0.25,3.29,electoral_autocracies,0.3596336,17.266497,15.218806,15.021,1220190.0
+144,MLT,Malta,94.678,54.0,54667.383,0.0,196.8,0.0,4.11,3.616,electoral_democracies,0.31041777,1575.0531,0.30468178,38.893,320.0
+145,MMR,Myanmar,30.852,29.0,6562.989,6522.0,1930.0,5.0,1.04,0.407,electoral_autocracies,0.3069687,80.65442,1.9911567,28.445,652670.0
+147,MNG,Mongolia,68.543,35.0,15790.696,8082.0,0.0,2.0,7.94,9.269,electoral_democracies,0.3274099,2.0751874,0.7115856,26.334,1557506.8
+149,MOZ,Mozambique,36.528,26.0,1528.8899,4783.0,2470.0,6.0,0.71,3.646,electoral_autocracies,0.50274074,38.00246,74.52835,16.07,786380.0
+152,MUS,Mauritius,40.766,52.0,25739.355,0.0,177.0,0.0,3.63,6.331,electoral_democracies,0.36761206,644.10065,0.12531371,35.594,1997.0
+154,MYS,Malaysia,76.607,53.0,31300.508,2742.0,4675.0,3.0,1.94,3.26,electoral_autocracies,0.41176775,101.78234,0.01102865,28.175,328550.0
+155,NAM,Namibia,51.042,52.0,10813.305,4220.0,1572.0,4.0,2.7,19.921,electoral_democracies,0.5906661,3.2194002,15.617013,20.733,823290.0
+157,NER,Niger,16.517,32.0,1612.6373,5834.0,0.0,7.0,0.29,0.531,electoral_democracies,0.37259424,18.11618,50.905937,14.699,1266700.0
+159,NGA,Nigeria,51.157,26.0,5628.1777,4477.0,853.0,4.0,0.5,5.206,electoral_democracies,0.35127744,230.00937,30.863297,17.053,910770.0
+160,NIC,Nicaragua,58.76,22.0,6701.1943,1253.0,910.0,2.0,0.96,5.472,electoral_autocracies,0.46156293,53.877846,3.9410286,23.98,120340.0
+162,NLD,Netherlands,91.876,82.0,68589.68,1053.0,451.0,2.0,3.02,3.379,liberal_democracies,0.29248324,520.86444,0.0957287,41.489,33670.0
+163,NOR,Norway,82.616,84.0,87947.55,2566.0,25148.0,3.0,3.47,3.684,liberal_democracies,0.2774182,14.68069,0.15653396,38.797,364270.0
+164,NPL,Nepal,20.153,34.0,4607.5244,3159.0,0.0,2.0,0.29,10.389,electoral_democracies,0.30020264,198.21461,0.36659858,22.663,143350.0
+170,PAK,Pakistan,36.907,32.0,5295.953,7257.0,1046.0,4.0,0.51,4.83,electoral_autocracies,0.29589266,299.39926,4.932448,19.652,770880.0
+171,PAN,Panama,68.059,36.0,33163.727,687.0,2490.0,2.0,1.94,6.256,electoral_democracies,0.49837545,57.086803,1.0040996,28.361,74180.0
+173,PER,Peru,78.099,36.0,15466.295,7062.0,2414.0,5.0,1.58,3.379,electoral_democracies,0.4152813,25.351017,2.9770849,28.221,1280000.0
+174,PHL,Philippines,47.149,34.0,9452.294,0.0,36289.0,0.0,0.98,2.237,electoral_autocracies,0.37811705,371.6158,5.057057,23.689,298170.0
+176,PNG,Papua New Guinea,13.25,28.0,4301.6113,824.0,5152.0,1.0,0.17,2.634,electoral_autocracies,0.4185041,21.21851,52.21029,21.543,452860.0
+177,POL,Poland,60.037,58.0,38846.504,2865.0,440.0,6.0,6.09,3.267,electoral_democracies,0.28760177,124.88038,0.06276072,39.742,306090.0
+180,PRT,Portugal,65.764,62.0,40400.805,1224.0,1793.0,1.0,3.51,6.464,liberal_democracies,0.32762748,112.910324,0.14872062,44.604,91605.6
+181,PRY,Paraguay,61.879,28.0,15321.324,4655.0,0.0,3.0,0.9,6.595,electoral_democracies,0.45650637,16.398338,1.0115106,25.215,396012.03
+184,QAT,Qatar,99.188,62.0,113160.98,87.0,563.0,1.0,1.12,0.1,closed_autocracies,0.35128385,243.50975,0.0,31.206,11490.0
+185,ROU,Romania,54.084,44.0,36964.258,2844.0,225.0,5.0,7.0,3.912,electoral_democracies,0.34800515,84.759834,2.1640766,41.628,230080.0
+186,RUS,Russian Federation,74.587,28.0,37698.953,22407.0,37653.0,14.0,7.07,4.513,electoral_autocracies,0.37736863,8.947562,0.030398078,38.441,16376870.0
+187,RWA,Rwanda,17.313,53.0,2665.1868,930.0,0.0,4.0,0.72,11.236,electoral_autocracies,0.43709454,517.8802,52.005394,18.742,24670.0
+190,SEN,Senegal,47.653,45.0,4070.6123,2684.0,531.0,5.0,0.73,2.863,electoral_democracies,0.38314784,84.93703,9.222566,18.16,192530.0
+197,SLV,El Salvador,72.746,34.0,10543.938,590.0,307.0,2.0,1.06,4.17,electoral_democracies,0.38778764,300.30484,1.4019152,25.293,20720.0
+201,SRB,Serbia,56.26,39.0,21782.447,2322.0,0.0,8.0,5.34,10.395,electoral_autocracies,0.34475464,82.841644,2.3344426,43.166,84090.0
+205,SVK,Slovakia,53.729,50.0,37273.133,1587.0,0.0,5.0,5.76,5.761,electoral_democracies,0.23232324,113.36577,0.11811627,39.805,48080.0
+206,SVN,Slovenia,54.822,60.0,44930.54,1211.0,46.6,4.0,4.38,4.446,liberal_democracies,0.24384232,103.466156,0.0,42.973,20136.4
+207,SWE,Sweden,87.708,85.0,61615.992,2211.0,3218.0,2.0,2.07,6.833,liberal_democracies,0.2930465,25.238245,0.3165186,39.529,407280.0
+214,TGO,Togo,42.248,29.0,2501.0308,1880.0,56.0,3.0,0.58,2.036,electoral_autocracies,0.42534238,155.5997,28.434795,18.409,54390.0
+215,THA,Thailand,50.692,36.0,21277.082,5673.0,3219.0,4.0,2.22,0.716,closed_autocracies,0.34855723,139.99542,0.0950376,37.714,510890.0
+216,TJK,Tajikistan,27.309,25.0,3649.8838,4130.0,0.0,4.0,4.35,11.419,electoral_autocracies,0.3399559,68.66468,6.114529,21.276,138790.0
+223,TUR,Türkiye,75.63,39.0,28400.7,2816.0,7200.0,8.0,2.84,13.73,electoral_autocracies,0.4383382,110.90741,0.45154127,30.825,769630.0
+226,TZA,"Tanzania, United Republic of",34.5,37.0,3484.6326,4161.0,1424.0,8.0,0.61,2.496,electoral_autocracies,0.4049123,66.803894,44.94932,16.834,885800.0
+227,UGA,Uganda,24.361,28.0,2689.4102,2729.0,0.0,5.0,0.5,3.06,electoral_autocracies,0.42702642,214.44063,42.11563,15.691,200520.0
+228,UKR,Ukraine,69.473,30.0,17636.555,5581.0,2782.0,6.0,6.67,8.194,electoral_democracies,0.26619467,77.59312,0.0,40.481,579400.0
+230,URY,Uruguay,95.426,71.0,30108.074,1591.0,660.0,2.0,2.47,8.836,liberal_democracies,0.3967629,19.410381,0.102072,34.761,175020.0
+231,USA,United States of America,82.459,69.0,69511.766,12002.0,19924.0,2.0,2.75,3.669,liberal_democracies,0.41533518,36.92736,0.99917054,37.002,9147420.0
+243,YEM,Yemen,37.273,15.0,623.4,1601.0,1906.0,2.0,0.71,17.202,closed_autocracies,0.36707094,66.50268,19.802757,18.017,527970.0
+244,ZAF,South Africa,66.856,44.0,14370.238,5244.0,2798.0,6.0,2.3,28.468,electoral_democracies,0.630258,49.120743,20.492558,26.873,1213090.0
+245,ZMB,Zambia,44.072,34.0,3591.5642,6043.15,0.0,8.0,2.0,5.542,electoral_autocracies,0.51483124,24.904613,64.349754,16.763,743390.0
+246,ZWE,Zimbabwe,32.21,24.0,3294.8062,3229.0,0.0,4.0,2.0,7.373,electoral_autocracies,0.5025645,39.476223,39.75453,17.187,386850.0
