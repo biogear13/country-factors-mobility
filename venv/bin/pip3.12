@@ -1,4 +1,4 @@
-#!/home/biogear13/country-factors-mobility/country-factors-mobility/venv/bin/python3.12
+#!/home/biogear13/country-factors-mobility/country-factors-mobility/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
